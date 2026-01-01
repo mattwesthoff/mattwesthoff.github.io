@@ -4,16 +4,39 @@
     <title>loginqueue</title>
     <link>https://www.loginqueue.com/</link>
     <description>Recent content on loginqueue</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 May 2025 14:26:44 -0700</lastBuildDate>
-    <atom:link href="https://www.loginqueue.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Dec 2025 20:15:28 -0800</lastBuildDate><atom:link href="https://www.loginqueue.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025 Books</title>
+      <link>https://www.loginqueue.com/posts/2025-books/</link>
+      <pubDate>Wed, 31 Dec 2025 20:15:28 -0800</pubDate>
+      
+      <guid>https://www.loginqueue.com/posts/2025-books/</guid>
+      
+      <description>&lt;p&gt;Here are my awards for the books that jumped out at me when scanning the list of all the books I read.&lt;/p&gt;
+&lt;p&gt;I read 54 books this year, 28 of which were written by authors who were new to me, which I think is a cool stat!&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;the-matt-prize-for-best-mystery-that-was-also-about-architecture-beauty-and-intelligence&#34;&gt;The Matt Prize for Best Mystery that was also About Architecture, Beauty and Intelligence&lt;/h3&gt;
+&lt;h4 id=&#34;rosehouse---arkady-martine&#34;&gt;&lt;a href=&#34;https://app.thestorygraph.com/books/c482b293-6a1f-4e10-993d-21d415aaec84&#34;&gt;Rose/House - Arkady Martine&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;20251231195717.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;the-matt-prize-for-best-picture-into-a-historical-world-full-of-powerful-characters-and-a-thorough-evisceration-of-the-kind-of-people-who-would-be-kings&#34;&gt;The Matt Prize for Best Picture into a Historical World, Full of Powerful Characters and a Thorough Evisceration of the Kind of People Who Would Be Kings&lt;/h3&gt;
+&lt;h4 id=&#34;hild-and-menewood---nicola-griffith&#34;&gt;&lt;a href=&#34;https://app.thestorygraph.com/books/397a5621-0140-4cc0-bd22-4247c3fe1b8c&#34;&gt;Hild (and Menewood) - Nicola Griffith&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;20251231200055.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Hello</title>
       <link>https://www.loginqueue.com/posts/hello/</link>
       <pubDate>Sun, 11 May 2025 14:26:44 -0700</pubDate>
+      
       <guid>https://www.loginqueue.com/posts/hello/</guid>
+      
       <description>&lt;p&gt;Hello!&lt;/p&gt;</description>
+      
     </item>
+    
   </channel>
 </rss>

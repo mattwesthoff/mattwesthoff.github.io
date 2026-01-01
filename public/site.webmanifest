@@ -1,7 +1,7 @@
 {
     "name": "loginqueue",
     "short_name": "loginqueue",
-    "start_url": "https://loginqueue.com/",
+    "start_url": "https://www.loginqueue.com/",
     "theme_color": "#434648",
     "background_color": "#ffffff",
     "display": "standalone",
