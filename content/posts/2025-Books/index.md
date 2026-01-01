@@ -24,7 +24,7 @@ I read 54 books this year, 28 of which were written by authors who were new to m
 ![](20251231200406.png)
 
 ---
-### The Matt Prize for Now This is What SciFi is At It's Best, Still making me think, and Remarkably Philosophically Appropriate to Our Current Moment, Despite Being Old
+### The Matt Prize for Now This is What SciFi is At It's Best, Still Making Me think, and Remarkably Philosophically Appropriate to Our Current Moment, Despite Being Old
 
 #### [Blindsight - Peter Watts](https://app.thestorygraph.com/books/d094e5be-11f2-42cb-9262-9b84434d53cf)
 
