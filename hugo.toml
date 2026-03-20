@@ -15,6 +15,7 @@ theme = 'loginqueue'
     description = "Six deck gauntlet"
     link        = "/magic/"
     color       = "#f6c177"   # gold
+    image       = "/images/magic/elves.jpg"
 
   [[params.tiles]]
     title       = "2025 books"
