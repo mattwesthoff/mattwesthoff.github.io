@@ -137,7 +137,13 @@ a:hover {
 }
 
 .deck-tiles-grid .tile {
-  aspect-ratio: 1 / 1;
+  aspect-ratio: unset;
+}
+
+.deck-tiles-grid .tile-image {
+  flex: none;
+  width: 100%;
+  aspect-ratio: 626 / 457;
 }
 
 @media (max-width: 640px) {

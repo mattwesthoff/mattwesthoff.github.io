@@ -1,6 +1,7 @@
 +++
 title = 'Enchantress'
 date = '2026-03-19'
+image = '/images/magic/enchantress.jpg'
 summary = "A white-green enchantment combo deck. Enchatress's draw you cards while you're playing ramp and protective enchantments. Sterling Grove can fetch Opalescence and Parallax Wave and then you can lock them out of creatures while you swing with your enchantments."
 +++
 
