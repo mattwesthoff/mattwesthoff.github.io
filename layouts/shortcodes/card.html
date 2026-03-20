@@ -1,10 +1,8 @@
-{{ $qty := .Get 0 | int }}
-{{ $name := .Get 1 }}
-{{ $uuid := .Get 2 }}
+{{ $name := .Get 0 }}
+{{ $uuid := .Get 1 }}
+{{ $full := .Get 2 }}
 {{ $img := printf "https://cards.scryfall.io/normal/front/%s/%s/%s.jpg" (substr $uuid 0 1) (substr $uuid 1 1) $uuid }}
-<div class="deck-card">
-  {{ range seq $qty }}
+<div class="deck-card{{ if eq $full "full" }} full-art{{ end }}">
   <img src="{{ $img }}" alt="{{ $name }}" class="stack-img">
-  {{ end }}
   <img src="{{ $img }}" alt="{{ $name }}" class="deck-card-preview">
 </div>
