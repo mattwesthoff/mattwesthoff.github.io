@@ -1,14 +1,12 @@
 +++
 title = 'Psychatog'
 date = '2026-03-19'
-summary = 'A blue-black control deck built entirely around Psychatog as its win condition. A web of cantrips (Portent, Opt, Gush, Accumulated Knowledge) filters through the deck and fills the graveyard. Duress and Counterspell answer threats. Psychatog wins by exiling hand and graveyard cards to become a one-shot kill.'
+summary = 'A blue-black control deck built entirely around Psychatog as its win condition. A web of cantrips filters through the deck and fills the graveyard. Duress and Counterspell answer threats. Psychatog wins by exiling hand and graveyard cards to become a one-shot kill.'
 +++
 
 A blue-black control deck built entirely around Psychatog as its win condition. A web of cantrips — Portent, Opt, Gush, Accumulated Knowledge — filters through the deck and fills the graveyard. Duress strips key spells before they're cast. Counterspell and Smother answer whatever gets through.
 
 When enough cards have accumulated in hand and graveyard, Psychatog can swing for lethal out of nowhere by exiling them all at once. The opponent often won't see it coming until it's too late.
-
-[View on Archidekt](https://archidekt.com/decks/20964038/psychatog)
 
 ---
 
@@ -98,3 +96,5 @@ When enough cards have accumulated in hand and graveyard, Psychatog can swing fo
 {{< card "Deep Analysis" "01e3c2e9-d8df-4a7a-be86-7be8c6254fa2" >}}
 {{< card "Haunting Echoes" "aca4c571-48b8-4150-93f8-4cb5c8e797c4" "full" >}}
 {{< /cards >}}
+
+[View on Archidekt](https://archidekt.com/decks/20964038/psychatog)

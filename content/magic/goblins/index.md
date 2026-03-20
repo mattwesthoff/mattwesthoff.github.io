@@ -1,14 +1,12 @@
 +++
 title = 'Goblins'
 date = '2026-03-19'
-summary = 'The classic Premodern goblin tribal deck. Goblin Lackey and Goblin Warchief enable blisteringly fast starts. Goblin Matron tutors the right tool, Goblin Ringleader refills the hand, and Goblin Piledriver closes games in one swing. Wasteland and Rishadan Port keep opponents off their mana.'
+summary = 'Goblin tribal! Goblin Lackey and Goblin Warchief for fast starts. Goblin Matron tutors the right tool, Goblin Ringleader refills the hand, and Goblin Piledriver and Siege-Gang Commander can end the game. Wasteland and Rishadan Port keep opponents off their mana.'
 +++
 
 The classic Premodern goblin tribal deck. Goblin Lackey and Goblin Warchief enable blisteringly fast starts. Goblin Matron tutors the right tool, Goblin Ringleader refills the hand, and Goblin Piledriver closes games in one swing. Wasteland and Rishadan Port keep opponents off their mana.
 
 A Lackey connecting on turn one can put a Siege-Gang Commander or Goblin Piledriver directly into play. Gempalm Incinerator deals with creatures without costing a card. The deck is fast, consistent, and punishing.
-
-[View on Archidekt](https://archidekt.com/decks/20963970/goblins)
 
 ---
 
@@ -98,3 +96,5 @@ A Lackey connecting on turn one can put a Siege-Gang Commander or Goblin Piledri
 {{< card "Anarchy" "28d941da-b5cb-4b7e-84f2-ece883f89af3" >}}
 {{< card "Goblin Goon" "6c77cac8-fe95-4925-a815-8c514cc41b22" "full" >}}
 {{< /cards >}}
+
+[View on Archidekt](https://archidekt.com/decks/20963970/goblins)

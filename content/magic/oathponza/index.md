@@ -1,14 +1,12 @@
 +++
 title = 'OathPonza'
 date = '2026-03-19'
-summary = "A green-red land destruction deck. Mox Diamond accelerates into early Thermokarst and Winter's Grasp while Wasteland and Rishadan Port chip in. Terravore grows enormous from all the lands in graveyards. Oath of Druids provides an alternate engine, and Sphere of Resistance slows spell-heavy decks to a crawl."
+summary = "A green-red deck that can slow other decks down with land destruction, Sphere of Resistance and Rishadan Port.  The only creature in the deck is Terravore, so when your opponent plays a creature, you get a gigantic trampeler and swing for the win!"
 +++
 
 A green-red land destruction deck. Mox Diamond accelerates into early Thermokarst and Winter's Grasp, while Wasteland and Rishadan Port provide ongoing mana denial. The goal is to strand the opponent with nothing to cast while your threats — Treetop Village, Mishra's Factory, and a rapidly growing Terravore — close out the game.
 
 Oath of Druids is an alternate threat: if the opponent has any creatures and you don't, Oath triggers and puts a Terravore directly into play. Sphere of Resistance makes both players pay one extra per spell, punishing the opponent far more than a land destruction deck that's already ahead.
-
-[View on Archidekt](https://archidekt.com/decks/20964023/oathponza)
 
 ---
 
@@ -99,3 +97,5 @@ Oath of Druids is an alternate threat: if the opponent has any creatures and you
 {{< card "Naturalize" "c0acc41f-b55b-47cb-8803-d39d72788799" >}}
 {{< card "Naturalize" "c0acc41f-b55b-47cb-8803-d39d72788799" "full" >}}
 {{< /cards >}}
+
+[View on Archidekt](https://archidekt.com/decks/20964023/oathponza)

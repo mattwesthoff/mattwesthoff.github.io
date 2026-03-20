@@ -1,9 +1,9 @@
 {{ define "main" }}
 <article class="post">
   <header class="post-header">
-    <a href="{{ "/" | relURL }}" class="back-link">← home</a>
+    <a href="{{ with .Params.backLink }}{{ . }}{{ else }}{{ .CurrentSection.RelPermalink }}{{ end }}" class="back-link">← back</a>
     <h1>{{ .Title }}</h1>
-    <time>{{ .Date.Format "January 2, 2006" }}</time>
+    {{ if ne .Section "magic" }}<time>{{ .Date.Format "January 2, 2006" }}</time>{{ end }}
   </header>
   <div class="post-content">
     {{ .Content }}

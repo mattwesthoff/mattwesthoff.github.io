@@ -3,11 +3,12 @@
   <a href="{{ "/" | relURL }}" class="back-link">← home</a>
   <h1>{{ .Title }}</h1>
 </div>
+{{ with .Content }}<div class="post-content" style="margin-bottom: 2rem;">{{ . }}</div>{{ end }}
 <div class="post-list">
   {{ range .Pages }}
   <a class="post-card" href="{{ .RelPermalink }}">
     <h2>{{ .Title }}</h2>
-    <time>{{ .Date.Format "January 2, 2006" }}</time>
+    {{ if ne .Section "magic" }}<time>{{ .Date.Format "January 2, 2006" }}</time>{{ end }}
     {{ with .Summary }}<p>{{ . }}</p>{{ end }}
   </a>
   {{ end }}

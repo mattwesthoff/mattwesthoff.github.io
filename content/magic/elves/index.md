@@ -1,14 +1,12 @@
 +++
 title = 'Elves'
 date = '2026-03-19'
-summary = "A green creature combo deck that generates absurd amounts of mana through Priest of Titania and Gaea's Cradle, then uses Survival of the Fittest to assemble whatever creature combination it needs. Tangle Wire locks opponents out while the elves take over the board."
+summary = "A green creature combo deck that can go wide, make a lot of mana, and use Survial of the Fittest to assemble whatever creature combination it needs. Tangle wire to slow opponents down, make a bunch of mana and Masitcore them!"
 +++
 
 A green creature combo deck that generates absurd amounts of mana through Priest of Titania and Gaea's Cradle, then uses Survival of the Fittest to assemble whatever creature combination it needs. Tangle Wire locks opponents out while the elves take over the board.
 
 Wirewood Symbiote and Quirion Ranger untap Priest of Titania repeatedly for explosive mana, while Deranged Hermit and Masticore close out the game. Squee, Goblin Nabob feeds Survival of the Fittest for free every turn.
-
-[View on Archidekt](https://archidekt.com/decks/20964013/elves)
 
 ---
 
@@ -98,3 +96,5 @@ Wirewood Symbiote and Quirion Ranger untap Priest of Titania repeatedly for expl
 {{< card "Nantuko Vigilante" "e7474849-a6b4-4f3b-a836-37b88c26047b" >}}
 {{< card "Caller of the Claw" "a073459e-1f00-47e0-a1b3-d30203aa35d1" "full" >}}
 {{< /cards >}}
+
+[View on Archidekt](https://archidekt.com/decks/20964013/elves)

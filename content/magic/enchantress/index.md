@@ -1,14 +1,12 @@
 +++
 title = 'Enchantress'
 date = '2026-03-19'
-summary = "A white-green enchantment combo deck. Argothian Enchantress and Enchantress's Presence draw a card for every enchantment cast, creating an engine that runs itself. Serra's Sanctum taps for enormous mana. Sterling Grove and Solitary Confinement protect the setup. Opalescence turns all enchantments into creatures and swings for the win."
+summary = "A white-green enchantment combo deck. Enchatress's draw you cards while you're playing ramp and protective enchantments. Sterling Grove can fetch Opalescence and Parallax Wave and then you can lock them out of creatures while you swing with your enchantments."
 +++
 
 A white-green enchantment combo deck. Argothian Enchantress and Enchantress's Presence draw a card for every enchantment cast, creating an engine that quickly runs through the deck. Wild Growth and Exploration accelerate mana, Serra's Sanctum taps for enormous amounts once enchantments pile up.
 
 Sterling Grove tutors any enchantment and makes the rest indestructible. Solitary Confinement, paid for by the draw engine, makes you nearly impossible to attack. Opalescence turns every enchantment into a creature that attacks for the win. Replenish recovers the whole setup from the graveyard if it gets disrupted.
-
-[View on Archidekt](https://archidekt.com/decks/20963995/enchantress)
 
 ---
 
@@ -98,3 +96,5 @@ Sterling Grove tutors any enchantment and makes the rest indestructible. Solitar
 {{< card "Gaea's Blessing" "ee83d511-57e0-40fb-a4db-62f6c2c39888" >}}
 {{< card "Worship" "908781a0-1ba4-4027-bd9d-13f9faf08686" "full" >}}
 {{< /cards >}}
+
+[View on Archidekt](https://archidekt.com/decks/20963995/enchantress)

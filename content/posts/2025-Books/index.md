@@ -1,6 +1,7 @@
 +++
 date = '2025-12-31T20:15:28-08:00'
 title = '2025 Books'
+backLink = '/'
 +++
 
 Here are my awards for the books that jumped out at me when scanning the list of all the books I read.
