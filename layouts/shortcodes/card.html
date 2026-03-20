@@ -4,5 +4,4 @@
 {{ $img := printf "https://cards.scryfall.io/normal/front/%s/%s/%s.jpg" (substr $uuid 0 1) (substr $uuid 1 1) $uuid }}
 <div class="deck-card{{ if eq $full "full" }} full-art{{ end }}">
   <img src="{{ $img }}" alt="{{ $name }}" class="stack-img">
-  <img src="{{ $img }}" alt="{{ $name }}" class="deck-card-preview">
 </div>

@@ -318,14 +318,18 @@ a:hover {
 /* ── Deck cards ──────────────────────────────────────── */
 
 .deck-cards {
-  columns: 4;
-  column-gap: 4px;
+  display: flex;
+  gap: 4px;
+  align-items: flex-start;
   margin-bottom: 2rem;
 }
 
+.deck-col {
+  flex: 1;
+  min-width: 0;
+}
+
 .deck-card {
-  break-inside: avoid;
-  position: relative;
   width: 100%;
   margin: 0;
 }
@@ -338,27 +342,16 @@ a:hover {
   object-position: top;
   border-radius: 8px;
   margin: 0;
+  transition: height 0.25s ease;
+}
+
+.deck-card:hover .stack-img {
+  height: 300px;
 }
 
 .deck-card.full-art .stack-img {
   height: auto;
-}
-
-/* Full-card preview shown on hover */
-.deck-card-preview {
-  display: none;
-  position: absolute;
-  left: calc(100% + 10px);
-  top: 0;
-  z-index: 1000;
-  width: 280px;
-  border-radius: 12px;
-  box-shadow: 0 16px 48px rgba(0, 0, 0, 0.9);
-  pointer-events: none;
-}
-
-.deck-card:hover .deck-card-preview {
-  display: block;
+  transition: none;
 }
 
 /* ── Footer ──────────────────────────────────────────── */

@@ -48,6 +48,22 @@
 
   </div>
 </article>
+<script>
+document.querySelectorAll('.deck-cards').forEach(function(container) {
+  var cards = Array.from(container.children);
+  var colSize = Math.ceil(cards.length / 4);
+  var cols = [0,1,2,3].map(function() {
+    var col = document.createElement('div');
+    col.className = 'deck-col';
+    return col;
+  });
+  cards.forEach(function(card, i) {
+    cols[Math.min(Math.floor(i / colSize), 3)].appendChild(card);
+  });
+  container.innerHTML = '';
+  cols.forEach(function(col) { container.appendChild(col); });
+});
+</script>
 
   </main>
   <footer class="site-footer">
