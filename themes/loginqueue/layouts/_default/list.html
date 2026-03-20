@@ -1,0 +1,15 @@
+{{ define "main" }}
+<div class="page-header">
+  <a href="{{ "/" | relURL }}" class="back-link">← home</a>
+  <h1>{{ .Title }}</h1>
+</div>
+<div class="post-list">
+  {{ range .Pages }}
+  <a class="post-card" href="{{ .Permalink }}">
+    <h2>{{ .Title }}</h2>
+    <time>{{ .Date.Format "January 2, 2006" }}</time>
+    {{ with .Summary }}<p>{{ . }}</p>{{ end }}
+  </a>
+  {{ end }}
+</div>
+{{ end }}

@@ -1,0 +1,13 @@
+{{ define "main" }}
+<div class="tiles-grid">
+  {{ range .Site.Params.tiles }}
+  <a class="tile" href="{{ .link }}" style="--tile-accent: {{ default "#c4a7e7" .color }}">
+    <div class="tile-image"{{ if .image }} style="background-image: url('{{ .image }}')"{{ end }}></div>
+    <div class="tile-footer">
+      <h2 class="tile-title">{{ .title }}</h2>
+      {{ with .description }}<p class="tile-desc">{{ . }}</p>{{ end }}
+    </div>
+  </a>
+  {{ end }}
+</div>
+{{ end }}
