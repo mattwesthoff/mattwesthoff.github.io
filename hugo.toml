@@ -11,14 +11,14 @@ theme = 'loginqueue'
   # Each tile appears on the home page.
   # Fields: title, description, link, color (accent hex), image (optional path under /static)
   [[params.tiles]]
-    title       = "magic"
-    description = "premodern gauntlet"
+    title       = "Premodern Magic"
+    description = "Six deck gauntlet"
     link        = "/magic/"
     color       = "#f6c177"   # gold
 
   [[params.tiles]]
-    title       = "books"
-    description = "what i've been reading"
+    title       = "2025 books"
+    description = "Matt's awards for books he likes"
     link        = "/posts/2025-books/"
     color       = "#c4a7e7"   # iris
     image       = "/images/tainted-cup.png"
