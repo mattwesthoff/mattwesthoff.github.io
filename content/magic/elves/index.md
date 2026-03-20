@@ -29,7 +29,7 @@ Wirewood Symbiote and Quirion Ranger untap Priest of Titania repeatedly for expl
 {{< card "Wirewood Symbiote" "49488b76-abaf-4dba-b01f-7b418e4ff295" >}}
 {{< card "Quirion Ranger" "56efe72c-6d7f-44f6-ac74-01af9305c4b6" >}}
 {{< card "Quirion Ranger" "56efe72c-6d7f-44f6-ac74-01af9305c4b6" >}}
-{{< card "Quirion Ranger" "56efe72c-6d7f-44f6-ac74-01af9305c4b6" >}}
+{{< card "Quirion Ranger" "56efe72c-6d7f-44f6-ac74-01af9305c4b6" "full" >}}
 {{< card "Priest of Titania" "965c33c3-0c68-4516-b8b0-5a0552ed44b6" >}}
 {{< card "Priest of Titania" "965c33c3-0c68-4516-b8b0-5a0552ed44b6" >}}
 {{< card "Priest of Titania" "965c33c3-0c68-4516-b8b0-5a0552ed44b6" >}}
@@ -44,7 +44,7 @@ Wirewood Symbiote and Quirion Ranger untap Priest of Titania repeatedly for expl
 {{< card "Masticore" "908a2215-7231-43a4-8fec-5d1e4233c028" >}}
 {{< card "Masticore" "908a2215-7231-43a4-8fec-5d1e4233c028" >}}
 {{< card "Nantuko Vigilante" "e7474849-a6b4-4f3b-a836-37b88c26047b" >}}
-{{< card "Nantuko Vigilante" "e7474849-a6b4-4f3b-a836-37b88c26047b" >}}
+{{< card "Nantuko Vigilante" "e7474849-a6b4-4f3b-a836-37b88c26047b" "full" >}}
 {{< card "Skyshroud Poacher" "0fb4e44e-656e-4294-a53b-1f7aa96fab31" >}}
 {{< card "Squee, Goblin Nabob" "4ba8325a-1203-4125-9111-94d9e2b1f14b" >}}
 {{< card "Anger" "fa2920af-e6a1-4939-ab59-67af4430e5b8" >}}
@@ -59,7 +59,7 @@ Wirewood Symbiote and Quirion Ranger untap Priest of Titania repeatedly for expl
 {{< card "Gaea's Cradle" "25b0b816-0583-44aa-9dc5-f3ff48993a51" >}}
 {{< card "Gaea's Cradle" "25b0b816-0583-44aa-9dc5-f3ff48993a51" >}}
 {{< card "Gaea's Cradle" "25b0b816-0583-44aa-9dc5-f3ff48993a51" >}}
-{{< card "Gaea's Cradle" "25b0b816-0583-44aa-9dc5-f3ff48993a51" >}}
+{{< card "Gaea's Cradle" "25b0b816-0583-44aa-9dc5-f3ff48993a51" "full" >}}
 {{< card "Wooded Foothills" "cdad38f7-9dfa-4f1b-9fac-41ab2b253f53" >}}
 {{< card "Wooded Foothills" "cdad38f7-9dfa-4f1b-9fac-41ab2b253f53" >}}
 {{< card "Wooded Foothills" "cdad38f7-9dfa-4f1b-9fac-41ab2b253f53" >}}
@@ -74,7 +74,7 @@ Wirewood Symbiote and Quirion Ranger untap Priest of Titania repeatedly for expl
 {{< card "Forest" "a8990632-f055-4583-ae85-5ac742549b61" >}}
 {{< card "Forest" "a8990632-f055-4583-ae85-5ac742549b61" >}}
 {{< card "Forest" "a8990632-f055-4583-ae85-5ac742549b61" >}}
-{{< card "Mountain" "be7e4b30-7f45-4109-b5ed-9223a9422d95" >}}
+{{< card "Mountain" "be7e4b30-7f45-4109-b5ed-9223a9422d95" "full" >}}
 {{< /cards >}}
 
 ---
@@ -85,16 +85,16 @@ Wirewood Symbiote and Quirion Ranger untap Priest of Titania repeatedly for expl
 {{< card "Naturalize" "c0acc41f-b55b-47cb-8803-d39d72788799" >}}
 {{< card "Naturalize" "c0acc41f-b55b-47cb-8803-d39d72788799" >}}
 {{< card "Naturalize" "c0acc41f-b55b-47cb-8803-d39d72788799" >}}
-{{< card "Naturalize" "c0acc41f-b55b-47cb-8803-d39d72788799" >}}
+{{< card "Naturalize" "c0acc41f-b55b-47cb-8803-d39d72788799" "full" >}}
 {{< card "Wall of Blossoms" "7eb4a1a3-efcf-4c9a-ad1f-0a3f8f2b456f" >}}
 {{< card "Wall of Blossoms" "7eb4a1a3-efcf-4c9a-ad1f-0a3f8f2b456f" >}}
 {{< card "Wall of Blossoms" "7eb4a1a3-efcf-4c9a-ad1f-0a3f8f2b456f" >}}
-{{< card "Wall of Blossoms" "7eb4a1a3-efcf-4c9a-ad1f-0a3f8f2b456f" >}}
+{{< card "Wall of Blossoms" "7eb4a1a3-efcf-4c9a-ad1f-0a3f8f2b456f" "full" >}}
 {{< card "Call of the Herd" "429a88cc-53db-4c5e-a061-f0f49a38c675" >}}
 {{< card "Call of the Herd" "429a88cc-53db-4c5e-a061-f0f49a38c675" >}}
 {{< card "Call of the Herd" "429a88cc-53db-4c5e-a061-f0f49a38c675" >}}
-{{< card "Call of the Herd" "429a88cc-53db-4c5e-a061-f0f49a38c675" >}}
+{{< card "Call of the Herd" "429a88cc-53db-4c5e-a061-f0f49a38c675" "full" >}}
 {{< card "Masticore" "908a2215-7231-43a4-8fec-5d1e4233c028" >}}
 {{< card "Nantuko Vigilante" "e7474849-a6b4-4f3b-a836-37b88c26047b" >}}
-{{< card "Caller of the Claw" "a073459e-1f00-47e0-a1b3-d30203aa35d1" >}}
+{{< card "Caller of the Claw" "a073459e-1f00-47e0-a1b3-d30203aa35d1" "full" >}}
 {{< /cards >}}

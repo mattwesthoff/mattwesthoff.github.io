@@ -30,7 +30,7 @@ Oath of Druids is an alternate threat: if the opponent has any creatures and you
 {{< card "Oath of Druids" "cf14de50-d123-400c-862e-2c95fd2aa23f" >}}
 {{< card "Oath of Druids" "cf14de50-d123-400c-862e-2c95fd2aa23f" >}}
 {{< card "Oath of Druids" "cf14de50-d123-400c-862e-2c95fd2aa23f" >}}
-{{< card "Oath of Druids" "cf14de50-d123-400c-862e-2c95fd2aa23f" >}}
+{{< card "Oath of Druids" "cf14de50-d123-400c-862e-2c95fd2aa23f" "full" >}}
 {{< card "Thermokarst" "00ae906b-2c4d-48e9-9f2d-217777e22292" >}}
 {{< card "Thermokarst" "00ae906b-2c4d-48e9-9f2d-217777e22292" >}}
 {{< card "Thermokarst" "00ae906b-2c4d-48e9-9f2d-217777e22292" >}}
@@ -46,7 +46,7 @@ Oath of Druids is an alternate threat: if the opponent has any creatures and you
 {{< card "Pyroclasm" "88040748-ad76-4b9a-bd4e-87e5980e9816" >}}
 {{< card "Naturalize" "c0acc41f-b55b-47cb-8803-d39d72788799" >}}
 {{< card "Naturalize" "c0acc41f-b55b-47cb-8803-d39d72788799" >}}
-{{< card "Stone Rain" "5a002e6d-ea59-4694-b3e5-075d6020b0d9" >}}
+{{< card "Stone Rain" "5a002e6d-ea59-4694-b3e5-075d6020b0d9" "full" >}}
 {{< card "Earthquake" "272f65a3-3c0c-417d-b5b6-276a643d643e" >}}
 {{< card "Wasteland" "99ff731b-8399-40c8-b539-ba6ba5783771" >}}
 {{< card "Wasteland" "99ff731b-8399-40c8-b539-ba6ba5783771" >}}
@@ -62,7 +62,7 @@ Oath of Druids is an alternate threat: if the opponent has any creatures and you
 {{< card "Wooded Foothills" "cdad38f7-9dfa-4f1b-9fac-41ab2b253f53" >}}
 {{< card "Karplusan Forest" "ba6f1263-d598-49fb-b5f8-09f11822ebd0" >}}
 {{< card "Karplusan Forest" "ba6f1263-d598-49fb-b5f8-09f11822ebd0" >}}
-{{< card "Karplusan Forest" "ba6f1263-d598-49fb-b5f8-09f11822ebd0" >}}
+{{< card "Karplusan Forest" "ba6f1263-d598-49fb-b5f8-09f11822ebd0" "full" >}}
 {{< card "Karplusan Forest" "ba6f1263-d598-49fb-b5f8-09f11822ebd0" >}}
 {{< card "Treetop Village" "02212bd8-0c0f-4e8e-99f1-a8477476c03a" >}}
 {{< card "Treetop Village" "02212bd8-0c0f-4e8e-99f1-a8477476c03a" >}}
@@ -75,7 +75,7 @@ Oath of Druids is an alternate threat: if the opponent has any creatures and you
 {{< card "Forest" "36b3ffbd-3f3e-4fca-80c2-94f9fdc198a5" >}}
 {{< card "Forest" "36b3ffbd-3f3e-4fca-80c2-94f9fdc198a5" >}}
 {{< card "Mountain" "be7e4b30-7f45-4109-b5ed-9223a9422d95" >}}
-{{< card "Mountain" "be7e4b30-7f45-4109-b5ed-9223a9422d95" >}}
+{{< card "Mountain" "be7e4b30-7f45-4109-b5ed-9223a9422d95" "full" >}}
 {{< /cards >}}
 
 ---
@@ -86,16 +86,16 @@ Oath of Druids is an alternate threat: if the opponent has any creatures and you
 {{< card "Call of the Herd" "429a88cc-53db-4c5e-a061-f0f49a38c675" >}}
 {{< card "Call of the Herd" "429a88cc-53db-4c5e-a061-f0f49a38c675" >}}
 {{< card "Call of the Herd" "429a88cc-53db-4c5e-a061-f0f49a38c675" >}}
-{{< card "Red Elemental Blast" "4fafd3f9-f7de-4d6e-8824-6b60866fc50f" >}}
+{{< card "Red Elemental Blast" "4fafd3f9-f7de-4d6e-8824-6b60866fc50f" "full" >}}
 {{< card "Red Elemental Blast" "4fafd3f9-f7de-4d6e-8824-6b60866fc50f" >}}
 {{< card "Pyroblast" "c342cac5-08ae-4428-9c2c-f6c5904e54d2" >}}
 {{< card "Pyroblast" "c342cac5-08ae-4428-9c2c-f6c5904e54d2" >}}
-{{< card "Tormod's Crypt" "0f9668ba-d26d-4484-b4b8-6fb91fbfb617" >}}
+{{< card "Tormod's Crypt" "0f9668ba-d26d-4484-b4b8-6fb91fbfb617" "full" >}}
 {{< card "Tormod's Crypt" "0f9668ba-d26d-4484-b4b8-6fb91fbfb617" >}}
 {{< card "Zuran Orb" "3a9d1082-a862-45d4-9e5e-392e879fead6" >}}
 {{< card "Zuran Orb" "3a9d1082-a862-45d4-9e5e-392e879fead6" >}}
-{{< card "Cursed Totem" "cc99ee76-45b6-4f1d-b0b0-7da8775ca90c" >}}
+{{< card "Cursed Totem" "cc99ee76-45b6-4f1d-b0b0-7da8775ca90c" "full" >}}
 {{< card "Cursed Totem" "cc99ee76-45b6-4f1d-b0b0-7da8775ca90c" >}}
 {{< card "Naturalize" "c0acc41f-b55b-47cb-8803-d39d72788799" >}}
-{{< card "Naturalize" "c0acc41f-b55b-47cb-8803-d39d72788799" >}}
+{{< card "Naturalize" "c0acc41f-b55b-47cb-8803-d39d72788799" "full" >}}
 {{< /cards >}}

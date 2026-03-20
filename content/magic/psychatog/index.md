@@ -29,7 +29,7 @@ When enough cards have accumulated in hand and graveyard, Psychatog can swing fo
 {{< card "Portent" "e040be83-3fb5-4da5-ba7a-4923b8854b74" >}}
 {{< card "Portent" "e040be83-3fb5-4da5-ba7a-4923b8854b74" >}}
 {{< card "Accumulated Knowledge" "ab061406-38f4-40e7-a9ea-e3cbcaabc127" >}}
-{{< card "Accumulated Knowledge" "ab061406-38f4-40e7-a9ea-e3cbcaabc127" >}}
+{{< card "Accumulated Knowledge" "ab061406-38f4-40e7-a9ea-e3cbcaabc127" "full" >}}
 {{< card "Accumulated Knowledge" "ab061406-38f4-40e7-a9ea-e3cbcaabc127" >}}
 {{< card "Accumulated Knowledge" "ab061406-38f4-40e7-a9ea-e3cbcaabc127" >}}
 {{< card "Gush" "e755bbef-bf34-49c0-ae72-d70e3599de52" >}}
@@ -44,7 +44,7 @@ When enough cards have accumulated in hand and graveyard, Psychatog can swing fo
 {{< card "Opt" "958262ec-8e52-40cf-a9fd-a60e42643e15" >}}
 {{< card "Opt" "958262ec-8e52-40cf-a9fd-a60e42643e15" >}}
 {{< card "Smother" "9a8321af-d667-44e7-8c03-3957286604b9" >}}
-{{< card "Smother" "9a8321af-d667-44e7-8c03-3957286604b9" >}}
+{{< card "Smother" "9a8321af-d667-44e7-8c03-3957286604b9" "full" >}}
 {{< card "Smother" "9a8321af-d667-44e7-8c03-3957286604b9" >}}
 {{< card "Impulse" "9d710a97-062f-4773-b6c6-8aeddeb3b6e8" >}}
 {{< card "Impulse" "9d710a97-062f-4773-b6c6-8aeddeb3b6e8" >}}
@@ -59,7 +59,7 @@ When enough cards have accumulated in hand and graveyard, Psychatog can swing fo
 {{< card "Polluted Delta" "0f7585c8-9e21-4eef-afc1-2852de23db2f" >}}
 {{< card "Polluted Delta" "0f7585c8-9e21-4eef-afc1-2852de23db2f" >}}
 {{< card "Polluted Delta" "0f7585c8-9e21-4eef-afc1-2852de23db2f" >}}
-{{< card "Underground River" "92369d7e-5e5a-46f9-bb31-c57d62410283" >}}
+{{< card "Underground River" "92369d7e-5e5a-46f9-bb31-c57d62410283" "full" >}}
 {{< card "Underground River" "92369d7e-5e5a-46f9-bb31-c57d62410283" >}}
 {{< card "Underground River" "92369d7e-5e5a-46f9-bb31-c57d62410283" >}}
 {{< card "Underground River" "92369d7e-5e5a-46f9-bb31-c57d62410283" >}}
@@ -74,7 +74,7 @@ When enough cards have accumulated in hand and graveyard, Psychatog can swing fo
 {{< card "Island" "b38e48ff-17c8-470c-ba8b-966da1777e77" >}}
 {{< card "Island" "b38e48ff-17c8-470c-ba8b-966da1777e77" >}}
 {{< card "Swamp" "5912d2aa-fe91-4cea-9c7a-6dca745f8560" >}}
-{{< card "Swamp" "5912d2aa-fe91-4cea-9c7a-6dca745f8560" >}}
+{{< card "Swamp" "5912d2aa-fe91-4cea-9c7a-6dca745f8560" "full" >}}
 {{< /cards >}}
 
 ---
@@ -85,16 +85,16 @@ When enough cards have accumulated in hand and graveyard, Psychatog can swing fo
 {{< card "Engineered Plague" "27e158d5-efb2-4f90-8898-60ede98f7d29" >}}
 {{< card "Engineered Plague" "27e158d5-efb2-4f90-8898-60ede98f7d29" >}}
 {{< card "Engineered Plague" "27e158d5-efb2-4f90-8898-60ede98f7d29" >}}
-{{< card "Engineered Plague" "27e158d5-efb2-4f90-8898-60ede98f7d29" >}}
+{{< card "Engineered Plague" "27e158d5-efb2-4f90-8898-60ede98f7d29" "full" >}}
 {{< card "Hydroblast" "f62716f0-fde2-49ef-b8a4-c1b03f451194" >}}
 {{< card "Hydroblast" "f62716f0-fde2-49ef-b8a4-c1b03f451194" >}}
 {{< card "Blue Elemental Blast" "7f07e272-6cc7-46d6-ad5c-473d1021c179" >}}
-{{< card "Blue Elemental Blast" "7f07e272-6cc7-46d6-ad5c-473d1021c179" >}}
+{{< card "Blue Elemental Blast" "7f07e272-6cc7-46d6-ad5c-473d1021c179" "full" >}}
 {{< card "Annul" "3f8c73ff-be92-41ca-93a7-76f9823adb38" >}}
 {{< card "Annul" "3f8c73ff-be92-41ca-93a7-76f9823adb38" >}}
 {{< card "Zombie Infestation" "ccd5f98a-7ab5-44b3-850c-b50963dace66" >}}
-{{< card "Phyrexian Furnace" "e98bca31-8c05-430b-b5d7-331bdc55710a" >}}
+{{< card "Phyrexian Furnace" "e98bca31-8c05-430b-b5d7-331bdc55710a" "full" >}}
 {{< card "Infest" "b7890ba2-aa42-4c8d-bbc1-94fb1d4150fc" >}}
 {{< card "Deep Analysis" "01e3c2e9-d8df-4a7a-be86-7be8c6254fa2" >}}
-{{< card "Haunting Echoes" "aca4c571-48b8-4150-93f8-4cb5c8e797c4" >}}
+{{< card "Haunting Echoes" "aca4c571-48b8-4150-93f8-4cb5c8e797c4" "full" >}}
 {{< /cards >}}
