@@ -5,9 +5,17 @@ image = '/images/magic/psychatog.jpg'
 summary = 'A blue-black control deck built entirely around Psychatog as its win condition. A web of cantrips filters through the deck and fills the graveyard. Duress and Counterspell answer threats. Psychatog wins by exiling hand and graveyard cards to become a one-shot kill.'
 +++
 
-A blue-black control deck built entirely around Psychatog as its win condition. A web of cantrips — Portent, Opt, Gush, Accumulated Knowledge — filters through the deck and fills the graveyard. Duress strips key spells before they're cast. Counterspell and Smother answer whatever gets through.
+Psychatog is the win condition. It's a 1/2 for three mana, but the abilities are surprisingly powerful. For instance, attack with Psychatog then Gush returning two islands, discard all four cards then eat them from the graveyard and that's +6/+6 right there (plus the gush, so +7/+7 if you had another card in your graveyard).  It's not hard to get to lethal in one swing with a Psychatog attack in this deck.  You don't commit to the attack until you've already won: you swing, the opponent has to decide whether to block, and then you pump in response. Wonder in the graveyard with an island in play gives Psychatog flying, making him much harder to block, and you can always dump Wonder to the Psychatog to get it in the 'yard.
 
-When enough cards have accumulated in hand and graveyard, Psychatog can swing for lethal out of nowhere by exiling them all at once. The opponent often won't see it coming until it's too late.
+The deck spends the early game as a control deck, drawing cards and saying no, draw cards, counter spells, fill your graveyard, get your pieces together. 
+
+Duress can disrupt decks on turn one, or be saved to check if the way is clear to play a 'tog. 
+
+Accumulated Knowledge is great in this deck, you want to draw cards and have cards in your graveyard. Intuition at instant speed can tutor three copies of Accumulated Knowledge, forcing the opponent to give you one — and then the other two are already in your graveyard, so the next copy draws three.  But worth thinking through exiling any AKs from your graveyard unless you're winning, since it just keeps getting better.
+
+Impulse finds what you're looking for and adds four cards to the graveyard, that's 2 damage (later w/ 'tog) in addition to the filtering.
+
+Build up the graveyard through normal draw spells, keep the opponent from resolving anything meaningful, and find a window where Psychatog can swing lethal through their defenses. 
 
 ---
 

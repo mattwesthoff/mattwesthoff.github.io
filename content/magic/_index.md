@@ -21,4 +21,6 @@ I'm proxying up six decks I pulled from the meta that sounded fun to me, coverin
 
 Decks are listed below, with a little overview and a little write-up of what the deck is trying to do and any tricky combos.
 
+Archidekt links are at the bottom if you want to playtest the decks yourself!
+
 We'll see how it goes!

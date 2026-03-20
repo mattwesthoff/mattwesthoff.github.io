@@ -5,9 +5,13 @@ image = '/images/magic/elves.jpg'
 summary = "A green creature combo deck that can go wide, make a lot of mana, and use Survial of the Fittest to assemble whatever creature combination it needs. Tangle wire to slow opponents down, make a bunch of mana and Masitcore them!"
 +++
 
-A green creature combo deck that generates absurd amounts of mana through Priest of Titania and Gaea's Cradle, then uses Survival of the Fittest to assemble whatever creature combination it needs. Tangle Wire locks opponents out while the elves take over the board.
+Priest of Titania taps for one mana per elf in play, and this deck is full of elves. On her own she's already making two or three mana. The untap pieces are what push her into broken territory. Quirion Ranger bounces a Forest to your hand to untap a creature, once per turn. Wirewood Symbiote returns an elf to your hand to untap a creature, also once per turn. With two Priests and both untappers you can generate absurd amounts of mana in a single turn—and the elves you bounce just get replayed.
 
-Wirewood Symbiote and Quirion Ranger untap Priest of Titania repeatedly for explosive mana, while Deranged Hermit and Masticore close out the game. Squee, Goblin Nabob feeds Survival of the Fittest for free every turn.
+Survival of the Fittest is the engine holding everything together. Pay one green, discard a creature, search your library for any creature. The key is that you're not just tutoring once—Squee, Goblin Nabob gives you a free discard every turn. Squee returns to your hand from the graveyard at the beginning of your upkeep, so you discard him to Survival, grab whatever you need, and he comes back next turn to do it again. Survival becomes a repeatable tutor that costs one green and zero cards. Find Deranged Hermit for five squirrels, Masticore to clear blockers, Skyshroud Poacher to cheat elves into play, or Anger to give your whole team haste.
+
+Gaea's Cradle is what makes the big turns possible. It taps for one green per creature you control, so with five or six elves it's producing more mana than the rest of your lands combined. Tangle Wire slows your opponents down, remember you can always tap the Wire itself as one of your permanents, so they're down three lands while you're only down two, and your elves are often extra lands anyway!
+
+The typical kill is making a pile of mana off Cradle, casting Deranged Hermit to flood the board, and resolving Tangle Wire while your opponent is still trying to stabilize. Masticore closes games on its own too—it demands a discard at the beginning of your upkeep or you sacrifice it, but with this much mana you can pay two to ping down every creature in sight. Regenerate for two keeps it alive through almost anything.
 
 ---
 

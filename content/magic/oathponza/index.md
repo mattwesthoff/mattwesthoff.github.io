@@ -5,9 +5,13 @@ image = '/images/magic/oathponza.jpg'
 summary = "A green-red deck that can slow other decks down with land destruction, Sphere of Resistance and Rishadan Port.  The only creature in the deck is Terravore, so when your opponent plays a creature, you get a gigantic trampeler and swing for the win!"
 +++
 
-A green-red land destruction deck. Mox Diamond accelerates into early Thermokarst and Winter's Grasp, while Wasteland and Rishadan Port provide ongoing mana denial. The goal is to strand the opponent with nothing to cast while your threats — Treetop Village, Mishra's Factory, and a rapidly growing Terravore — close out the game.
+Play an Oath of Druids while the opponent has as creature, on your upkeep start revealing cards until you hit a Terravore, the only creature in the deck.  You probably just binned a bunch of lands, so it's a big trampler. 
 
-Oath of Druids is an alternate threat: if the opponent has any creatures and you don't, Oath triggers and puts a Terravore directly into play. Sphere of Resistance makes both players pay one extra per spell, punishing the opponent far more than a land destruction deck that's already ahead.
+It's also probably bigger because a large part of the rest of the deck is land destruction! Between that, Sphere of Resistance and Rishadan Port and Wasteland you can argue that lands aren't for mana, they're to make big Terravores.
+
+Mox Diamond is nice acceleration in this deck, you want lands in the graveyard for Terravore anyway, and getting a land destruction spell down a turn earlier can be big.
+
+Mishra's Factory and Treetop Village are the deck's creature-lands, giving you interaction and pressure without being targets for Oath of Druids.
 
 ---
 

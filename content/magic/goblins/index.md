@@ -5,9 +5,20 @@ image = '/images/magic/goblins.jpg'
 summary = 'Goblin tribal! Goblin Lackey and Goblin Warchief for fast starts. Goblin Matron tutors the right tool, Goblin Ringleader refills the hand, and Goblin Piledriver and Siege-Gang Commander can end the game. Wasteland and Rishadan Port keep opponents off their mana.'
 +++
 
-The classic Premodern goblin tribal deck. Goblin Lackey and Goblin Warchief enable blisteringly fast starts. Goblin Matron tutors the right tool, Goblin Ringleader refills the hand, and Goblin Piledriver closes games in one swing. Wasteland and Rishadan Port keep opponents off their mana.
+So much synergy! So many Goblins! 
 
-A Lackey connecting on turn one can put a Siege-Gang Commander or Goblin Piledriver directly into play. Gempalm Incinerator deals with creatures without costing a card. The deck is fast, consistent, and punishing.
+Goblin Lackey puts goblins directly into play! Turn two Seige-Gang Commander for free? That's a lot of Goblins, and Piledriver loves a lot of Goblins!
+
+Just goldfishing...
+- Turn 1: Lackey
+- Turn 2: Attack, they're at 19, put Siege-Gang into play, it makes three goblins. Play land, play Piledriver.
+- Turn 3: Attack with everything, Piledriver is a pro-blue 11/2, six more damage from the other goblins, that's 17 damage this turn, they're at two.  Siege-gang them saccing a goblin, you win. Oh you also even got a Piledriver trigger there you didn't need.
+
+Goblin Matron for tutoring, Ringleader for refilling your hand.  Incinerator as a Goblin or just to remove pesky blockers by cycling.  
+
+Goblin Piledriver is the closing threat. He's a 1/2 for two mana, but he gets +2/+0 for each other goblin attacking. With four or five goblins swinging, Piledriver is hitting for eight to twelve damage in one attack, and he has protection from blue so control decks can't easily answer him. Gempalm Incinerator clears the way without spending a card: cycling him deals damage equal to the number of goblins you control to any target, which is usually enough to kill whatever is blocking.
+
+Wasteland and Rishadan Port are disruption. Port taps at the beginning of your opponent's upkeep to keep a land tapped during their main phase. Wasteland destroys a nonbasic land outright. Against decks that need specific colors or nonbasic lands to function, this pressure often prevents them from executing their plan long enough for your goblins to close the game.
 
 ---
 
