@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.loginqueue.com/magic/elves/</loc>
+    <loc>http://localhost:1313/magic/elves/</loc>
     <lastmod>2026-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.loginqueue.com/magic/enchantress/</loc>
+    <loc>http://localhost:1313/magic/enchantress/</loc>
     <lastmod>2026-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.loginqueue.com/magic/goblins/</loc>
+    <loc>http://localhost:1313/magic/goblins/</loc>
     <lastmod>2026-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.loginqueue.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.loginqueue.com/magic/oathponza/</loc>
+    <loc>http://localhost:1313/magic/oathponza/</loc>
     <lastmod>2026-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.loginqueue.com/magic/</loc>
+    <loc>http://localhost:1313/magic/</loc>
     <lastmod>2026-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.loginqueue.com/magic/psychatog/</loc>
+    <loc>http://localhost:1313/magic/psychatog/</loc>
     <lastmod>2026-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.loginqueue.com/magic/stiflenought/</loc>
+    <loc>http://localhost:1313/magic/stiflenought/</loc>
     <lastmod>2026-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.loginqueue.com/posts/2025-books/</loc>
+    <loc>http://localhost:1313/posts/2025-books/</loc>
     <lastmod>2025-12-31T20:15:28-08:00</lastmod>
   </url><url>
-    <loc>https://www.loginqueue.com/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-12-31T20:15:28-08:00</lastmod>
   </url><url>
-    <loc>https://www.loginqueue.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://www.loginqueue.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

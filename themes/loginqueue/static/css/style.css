@@ -337,6 +337,7 @@ a:hover {
   object-fit: cover;
   object-position: top;
   border-radius: 8px;
+  margin: 0;
 }
 
 .deck-card.full-art .stack-img {
