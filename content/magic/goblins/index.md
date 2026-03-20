@@ -2,6 +2,7 @@
 title = 'Goblins'
 date = '2026-03-19'
 image = '/images/magic/goblins.jpg'
+color = '#eb6f92'
 summary = 'Goblin tribal! Goblin Lackey and Goblin Warchief for fast starts. Goblin Matron tutors the right tool, Goblin Ringleader refills the hand, and Goblin Piledriver and Siege-Gang Commander can end the game. Wasteland and Rishadan Port keep opponents off their mana.'
 +++
 

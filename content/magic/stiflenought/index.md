@@ -2,6 +2,7 @@
 title = 'Stiflenought'
 date = '2026-03-19'
 image = '/images/magic/stiflenought.jpg'
+color = '#9ccfd8'
 summary = 'A mono-blue combo-control deck. Phyrexian Dreadnought can be a turn two 12/12 trampler with no downside because you used Stifle to counter the triggered ability! The rest of the deck protects it with Counterspell, Foil, and cantrips.'
 +++
 

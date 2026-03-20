@@ -2,6 +2,7 @@
 title = 'Elves'
 date = '2026-03-19'
 image = '/images/magic/elves.jpg'
+color = '#3e8fb0'
 summary = "A green creature combo deck that can go wide, make a lot of mana, and use Survial of the Fittest to assemble whatever creature combination it needs. Tangle wire to slow opponents down, make a bunch of mana and Masitcore them!"
 +++
 

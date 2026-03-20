@@ -2,6 +2,7 @@
 title = 'Psychatog'
 date = '2026-03-19'
 image = '/images/magic/psychatog.jpg'
+color = '#c4a7e7'
 summary = 'A blue-black control deck built entirely around Psychatog as its win condition. A web of cantrips filters through the deck and fills the graveyard. Duress and Counterspell answer threats. Psychatog wins by exiling hand and graveyard cards to become a one-shot kill.'
 +++
 

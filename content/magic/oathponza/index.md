@@ -2,6 +2,7 @@
 title = 'OathPonza'
 date = '2026-03-19'
 image = '/images/magic/oathponza.jpg'
+color = '#f6c177'
 summary = "A green-red deck that can slow other decks down with land destruction, Sphere of Resistance and Rishadan Port.  The only creature in the deck is Terravore, so when your opponent plays a creature, you get a gigantic trampeler and swing for the win!"
 +++
 
