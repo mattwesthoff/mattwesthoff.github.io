@@ -14,39 +14,34 @@ A Lackey connecting on turn one can put a Siege-Gang Commander or Goblin Piledri
 
 ### Maindeck
 
-**Creatures**
-| Qty | Card |
-|-----|------|
-| 4 | Goblin Lackey |
-| 4 | Mogg Fanatic |
-| 4 | Goblin Warchief |
-| 4 | Goblin Matron |
-| 4 | Goblin Piledriver |
-| 4 | Goblin Ringleader |
-| 4 | Gempalm Incinerator |
-| 3 | Siege-Gang Commander |
-| 1 | Goblin Tinkerer |
-| 1 | Goblin Sharpshooter |
-| 1 | Goblin King |
-| 1 | Skirk Prospector |
-| 1 | Goblin Goon |
-
-**Lands**
-| Qty | Card |
-|-----|------|
-| 4 | Wasteland |
-| 4 | Rishadan Port |
-| 16 | Mountain |
+{{< cards >}}
+{{< card 4 "Goblin Lackey" "9b848caa-aad8-4060-8f86-304a8556de2d" >}}
+{{< card 4 "Mogg Fanatic" "ca2ecfd4-c874-4468-8601-87aa110d5a00" >}}
+{{< card 4 "Goblin Warchief" "66864a4b-8924-40ef-a337-15b12413a158" >}}
+{{< card 4 "Goblin Matron" "9e9e2e5d-ad06-4378-9afb-ffb174e6a5b4" >}}
+{{< card 4 "Goblin Piledriver" "f6c4df1f-f148-42ec-8e22-e7114216927d" >}}
+{{< card 4 "Goblin Ringleader" "b6b2cd77-9552-48b1-80cb-26966323c1ea" >}}
+{{< card 4 "Gempalm Incinerator" "2687c311-fd0c-4fe0-bce8-e3f412216796" >}}
+{{< card 3 "Siege-Gang Commander" "92e78cec-aaf9-4fe8-887b-b7e356d63315" >}}
+{{< card 1 "Goblin Tinkerer" "e6529852-8b3e-4a70-a4a1-029e012231c6" >}}
+{{< card 1 "Goblin Sharpshooter" "7e689df7-b85d-4346-bee8-5e978b5cbbbc" >}}
+{{< card 1 "Goblin King" "65705a8d-6bb1-4289-b8b0-8546ccc478dc" >}}
+{{< card 1 "Skirk Prospector" "eb545dcd-3a7a-46a7-9c35-d28faebc6d17" >}}
+{{< card 1 "Goblin Goon" "6c77cac8-fe95-4925-a815-8c514cc41b22" >}}
+{{< card 4 "Wasteland" "99ff731b-8399-40c8-b539-ba6ba5783771" >}}
+{{< card 4 "Rishadan Port" "477a1f53-5cdf-4b45-b584-2e36b31a3fdb" >}}
+{{< card 16 "Mountain" "9515ced4-b679-48f0-bf62-8b7baef5e1c2" >}}
+{{< /cards >}}
 
 ---
 
 ### Sideboard
 
-| Qty | Card |
-|-----|------|
-| 4 | Red Elemental Blast |
-| 3 | Pyrokinesis |
-| 3 | Tormod's Crypt |
-| 2 | Overload |
-| 2 | Anarchy |
-| 1 | Goblin Goon |
+{{< cards >}}
+{{< card 4 "Red Elemental Blast" "4fafd3f9-f7de-4d6e-8824-6b60866fc50f" >}}
+{{< card 3 "Pyrokinesis" "db2a5e85-6cbc-43c1-9362-4056ad017ef0" >}}
+{{< card 3 "Tormod's Crypt" "0f9668ba-d26d-4484-b4b8-6fb91fbfb617" >}}
+{{< card 2 "Overload" "c91fca91-7296-422e-b251-d571b710ff71" >}}
+{{< card 2 "Anarchy" "28d941da-b5cb-4b7e-84f2-ece883f89af3" >}}
+{{< card 1 "Goblin Goon" "6c77cac8-fe95-4925-a815-8c514cc41b22" >}}
+{{< /cards >}}

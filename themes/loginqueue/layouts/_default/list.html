@@ -5,7 +5,7 @@
 </div>
 <div class="post-list">
   {{ range .Pages }}
-  <a class="post-card" href="{{ .Permalink }}">
+  <a class="post-card" href="{{ .RelPermalink }}">
     <h2>{{ .Title }}</h2>
     <time>{{ .Date.Format "January 2, 2006" }}</time>
     {{ with .Summary }}<p>{{ . }}</p>{{ end }}

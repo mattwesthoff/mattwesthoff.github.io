@@ -1,0 +1,10 @@
+{{ $qty := .Get 0 | int }}
+{{ $name := .Get 1 }}
+{{ $uuid := .Get 2 }}
+{{ $img := printf "https://cards.scryfall.io/normal/front/%s/%s/%s.jpg" (substr $uuid 0 1) (substr $uuid 1 1) $uuid }}
+<div class="deck-card">
+  {{ range seq $qty }}
+  <img src="{{ $img }}" alt="{{ $name }}" class="stack-img">
+  {{ end }}
+  <img src="{{ $img }}" alt="{{ $name }}" class="deck-card-preview">
+</div>

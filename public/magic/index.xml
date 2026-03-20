@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Premodern Magic Gauntlet on loginqueue</title>
-    <link>http://localhost:1313/magic/</link>
+    <link>https://www.loginqueue.com/magic/</link>
     <description>Recent content in Premodern Magic Gauntlet on loginqueue</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/magic/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.loginqueue.com/magic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Elves</title>
-      <link>http://localhost:1313/magic/elves/</link>
+      <link>https://www.loginqueue.com/magic/elves/</link>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/magic/elves/</guid>
+      <guid>https://www.loginqueue.com/magic/elves/</guid>
       <description>A green creature combo deck that generates absurd amounts of mana through Priest of Titania and Gaea&amp;rsquo;s Cradle, then uses Survival of the Fittest to assemble whatever creature combination it needs. Tangle Wire locks opponents out while the elves take over the board.</description>
     </item>
     <item>
       <title>Enchantress</title>
-      <link>http://localhost:1313/magic/enchantress/</link>
+      <link>https://www.loginqueue.com/magic/enchantress/</link>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/magic/enchantress/</guid>
+      <guid>https://www.loginqueue.com/magic/enchantress/</guid>
       <description>A white-green enchantment combo deck. Argothian Enchantress and Enchantress&amp;rsquo;s Presence draw a card for every enchantment cast, creating an engine that runs itself. Serra&amp;rsquo;s Sanctum taps for enormous mana. Sterling Grove and Solitary Confinement protect the setup. Opalescence turns all enchantments into creatures and swings for the win.</description>
     </item>
     <item>
       <title>Goblins</title>
-      <link>http://localhost:1313/magic/goblins/</link>
+      <link>https://www.loginqueue.com/magic/goblins/</link>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/magic/goblins/</guid>
+      <guid>https://www.loginqueue.com/magic/goblins/</guid>
       <description>The classic Premodern goblin tribal deck. Goblin Lackey and Goblin Warchief enable blisteringly fast starts. Goblin Matron tutors the right tool, Goblin Ringleader refills the hand, and Goblin Piledriver closes games in one swing. Wasteland and Rishadan Port keep opponents off their mana.</description>
     </item>
     <item>
       <title>OathPonza</title>
-      <link>http://localhost:1313/magic/oathponza/</link>
+      <link>https://www.loginqueue.com/magic/oathponza/</link>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/magic/oathponza/</guid>
+      <guid>https://www.loginqueue.com/magic/oathponza/</guid>
       <description>A green-red land destruction deck. Mox Diamond accelerates into early Thermokarst and Winter&amp;rsquo;s Grasp while Wasteland and Rishadan Port chip in. Terravore grows enormous from all the lands in graveyards. Oath of Druids provides an alternate engine, and Sphere of Resistance slows spell-heavy decks to a crawl.</description>
     </item>
     <item>
       <title>Psychatog</title>
-      <link>http://localhost:1313/magic/psychatog/</link>
+      <link>https://www.loginqueue.com/magic/psychatog/</link>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/magic/psychatog/</guid>
+      <guid>https://www.loginqueue.com/magic/psychatog/</guid>
       <description>A blue-black control deck built entirely around Psychatog as its win condition. A web of cantrips (Portent, Opt, Gush, Accumulated Knowledge) filters through the deck and fills the graveyard. Duress and Counterspell answer threats. Psychatog wins by exiling hand and graveyard cards to become a one-shot kill.</description>
     </item>
     <item>
       <title>Stiflenought</title>
-      <link>http://localhost:1313/magic/stiflenought/</link>
+      <link>https://www.loginqueue.com/magic/stiflenought/</link>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/magic/stiflenought/</guid>
+      <guid>https://www.loginqueue.com/magic/stiflenought/</guid>
       <description>A mono-blue combo-control deck. Phyrexian Dreadnought enters the battlefield with a trigger to sacrifice creatures totaling 12 power — Stifle or Vision Charm counters that trigger, leaving a 12/12 trampler in play for a single mana. The rest of the deck protects it with Counterspell, Foil, and cantrips.</description>
     </item>
   </channel>
