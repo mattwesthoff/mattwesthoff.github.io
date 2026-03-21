@@ -127,7 +127,10 @@ function scryfallImg(uuid) {
 // Sort longest first so multi-word names match before shorter substrings
 const sortedNames = Object.keys(CARDS).sort((a, b) => b.length - a.length);
 
-const escapedNames = sortedNames.map(n => n.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+const escapedNames = sortedNames.map(n =>
+  n.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+   .replace(/'/g, "(?:'|\u2019)")
+);
 const pattern = new RegExp(`(${escapedNames.join('|')})`, 'g');
 
 function annotateTextNode(node) {
@@ -147,7 +150,7 @@ function annotateTextNode(node) {
     const span = document.createElement('span');
     span.className = 'card-ref';
     span.textContent = match[0];
-    span.dataset.uuid = CARDS[match[0]];
+    span.dataset.uuid = CARDS[match[0].replace(/\u2019/g, "'")];
     frag.appendChild(span);
     last = pattern.lastIndex;
   }
