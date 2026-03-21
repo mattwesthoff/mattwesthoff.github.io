@@ -108,7 +108,7 @@ const CARDS = {
   "Vision Charm":          "78b384d3-3adf-493a-8b89-bfe68fd1c3e2",
   "Wall of Blossoms":      "7eb4a1a3-efcf-4c9a-ad1f-0a3f8f2b456f",
   "Wasteland":             "99ff731b-8399-40c8-b539-ba6ba5783771",
-  "Wild Growth":           "16fdfa77-424a-4f83-bb48-1c43b6c84b17",
+  "Wild Growth":           "f8047ab9-a0fc-4933-bcbc-e761aa0f622b",
   "Windswept Heath":       "7a7c5941-9c8a-4a40-9efb-a84f05c58e53",
   "Winter's Grasp":        "7af28a5d-45dc-4e31-9009-5c0bd25a9032",
   "Wirewood Symbiote":     "49488b76-abaf-4dba-b01f-7b418e4ff295",

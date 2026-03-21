@@ -57,10 +57,10 @@ Replenish is the reset button: if the board gets wiped, one Replenish puts every
 {{< card "Exploration" "2f09e451-0246-45a2-8bfd-07d3c65ddfe6" >}}
 {{< card "Exploration" "2f09e451-0246-45a2-8bfd-07d3c65ddfe6" "full" >}}
 {{< card "Exploration" "2f09e451-0246-45a2-8bfd-07d3c65ddfe6" >}}
-{{< card "Wild Growth" "16fdfa77-424a-4f83-bb48-1c43b6c84b17" >}}
-{{< card "Wild Growth" "16fdfa77-424a-4f83-bb48-1c43b6c84b17" >}}
-{{< card "Wild Growth" "16fdfa77-424a-4f83-bb48-1c43b6c84b17" >}}
-{{< card "Wild Growth" "16fdfa77-424a-4f83-bb48-1c43b6c84b17" >}}
+{{< card "Wild Growth" "f8047ab9-a0fc-4933-bcbc-e761aa0f622b" >}}
+{{< card "Wild Growth" "f8047ab9-a0fc-4933-bcbc-e761aa0f622b" >}}
+{{< card "Wild Growth" "f8047ab9-a0fc-4933-bcbc-e761aa0f622b" >}}
+{{< card "Wild Growth" "f8047ab9-a0fc-4933-bcbc-e761aa0f622b" >}}
 {{< card "Mirri's Guile" "73d51a3c-95c0-4810-b847-4b8afd12fd64" >}}
 {{< card "Mirri's Guile" "73d51a3c-95c0-4810-b847-4b8afd12fd64" >}}
 {{< card "Mirri's Guile" "73d51a3c-95c0-4810-b847-4b8afd12fd64" >}}
