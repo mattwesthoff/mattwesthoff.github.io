@@ -89,35 +89,21 @@ Build up the graveyard through normal draw spells, keep the opponent from resolv
 
 ### Sideboarding
 
-{{< matchup "vs Elves" "even" >}}
-In: Engineered Plague x4, Infest x1. Out: Duress x4, Tsabo's Web x1.
+**Engineered Plague** — names a creature type, and all creatures of that type get -1/-1 for each copy in play. A single Plague naming Elf kills Llanowar Elves, Fyndhorn Elves, Quirion Ranger, Priest of Titania, and more simultaneously. Naming Goblin kills every creature in that entire deck. The most efficient sweeper available for tribal creature matchups.
 
-Engineered Plague naming Elf kills Llanowar Elves, Fyndhorn Elves, Quirion Ranger, Priest of Titania, Multani's Acolyte, and Yavimaya Granger simultaneously — everything they use to make mana just dies. Infest handles whatever survives: squirrel tokens from Deranged Hermit, Anger, Wonder. Duress misses creatures so it's nearly useless in a creature-heavy matchup, and Tsabo's Web has no relevant targets.
-{{< /matchup >}}
+**Hydroblast / Blue Elemental Blast** — destroys any red permanent or counters any red spell for one mana. Brings in against red-heavy decks where most of the threats are red — Goblins is a good example where every creature in the deck is vulnerable to it.
 
-{{< matchup "vs Goblins" "even" >}}
-In: Engineered Plague x4, Hydroblast x2. Out: Duress x4, Tsabo's Web x1, Vendetta x1.
+**Annul** — counters any artifact or enchantment spell for one blue mana. Brings in against decks where key setup pieces are enchantments, like Sterling Grove, Opalescence, and Solitary Confinement. Counter the tutor before it resolves — once Sterling Grove is in play, every other enchantment has shroud.
 
-Engineered Plague naming Goblin kills every creature in their deck. Hydroblast destroys any red permanent — all their goblins are red — and counters red spells. It's a blue Terror that also handles burn. Duress misses every creature in their 60 so it's useless here. With Plague and Hydroblast you should have enough time to set up the Psychatog kill.
-{{< /matchup >}}
+**Zombie Infestation** — discard two cards to put a 2/2 Zombie token into play. Converts the excess cards from your cantrip engine into threats in matchups where your lands are under attack and you need a way to fight back while disrupted.
 
-{{< matchup "vs OathPonza" "even" >}}
-In: Zombie Infestation x1, Phyrexian Furnace x1, Haunting Echoes x1. Out: Vendetta x1, Smother x1, Foil x1.
+**Phyrexian Furnace** — pay one mana to exile a single card from any graveyard. Chips away at graveyard-reliant strategies: exiles Accumulated Knowledge copies to reset the chain, or removes lands from an opposing deck that cares about graveyard size.
 
-Zombie Infestation lets you convert excess cards from cantrips into 2/2 threats even while your lands are being destroyed. Phyrexian Furnace exiles lands from OathPonza's graveyard one at a time, directly shrinking Terravore. Haunting Echoes exiles all copies of their key cards from their library. Note that Oath of Druids does nothing against you since you have no creatures — it requires having fewer creatures than the opponent to trigger. Vendetta and Smother are creature removal that mainly hits Mishra's Factory and Treetop Village, which Counterspell can handle.
-{{< /matchup >}}
+**Infest** — gives all creatures -2/-2 until end of turn for three mana. Handles whatever survives Engineered Plague, plus tokens and utility creatures that were large enough to dodge a single Plague counter.
 
-{{< matchup "vs Enchantress" "even" >}}
-In: Annul x2. Out: Vendetta x1, Powder Keg x1.
+**Deep Analysis** — an extra copy of the main deck draw spell for matchups where you need additional card advantage and can afford to flashback from the graveyard later.
 
-Annul counters any enchantment on the stack: Sterling Grove, Opalescence, Solitary Confinement, Parallax Wave. Counter Sterling Grove early — once it resolves, every other enchantment has shroud and you can no longer target them. The matchup comes down to countering their setup pieces before they can protect them. Vendetta and Powder Keg have few useful targets when Enchantress rarely puts creatures on the board.
-{{< /matchup >}}
-
-{{< matchup "vs Stiflenought" "even" >}}
-In: Phyrexian Furnace x1, Haunting Echoes x1. Out: Tsabo's Web x1, Vendetta x1.
-
-Phyrexian Furnace exiles Accumulated Knowledge copies from their graveyard, resetting the AK chain. Haunting Echoes can exile all but one copy of Counterspell, Foil, Stifle, Vision Charm, and Accumulated Knowledge from their library, crippling their long game. Duress is excellent in this matchup — take Stifle or Vision Charm before you play Psychatog, removing their ability to respond. Tsabo's Web has almost no targets in a mono-blue deck with no activated-ability lands.
-{{< /matchup >}}
+**Haunting Echoes** — exiles all cards in the opponent's graveyard, then exiles all cards in their library that share a name with any of those cards. Against any deck that runs four copies of key cards like Counterspell, Stifle, or Accumulated Knowledge, Haunting Echoes removes nearly all of them from the library at once.
 
 ---
 

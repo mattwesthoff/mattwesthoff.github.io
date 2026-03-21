@@ -107,35 +107,23 @@ Replenish is the reset button: if the board gets wiped, one Replenish puts every
 
 ### Sideboarding
 
-{{< matchup "vs Elves" "even" >}}
-In: Elephant Grass x2, Swords to Plowshares x1, Worship x1. Out: Exploration x2, Mirri's Guile x2.
+**Elephant Grass** — requires your opponent to pay 2 mana for each nonblack creature they attack with. Against wide creature decks like Goblins or Elves, this quickly becomes impossible to pay — at eight attackers that's sixteen mana per attack, which shuts combat down entirely.
 
-Elephant Grass requires opponents to pay 2 for each nonblack creature they attack with — against 8+ elves, that's 16+ mana per attack, which is a hard lock. Swords to Plowshares removes a key threat like Deranged Hermit or Priest of Titania at instant speed. Worship keeps you alive if they land a hit before the lock is set. Exploration and Mirri's Guile are about setup speed, which matters less when you need survival tools first.
-{{< /matchup >}}
+**Swords to Plowshares** — exiles any creature at instant speed for one white mana. Bring in when you need to remove a specific threat before it becomes a problem — Phyrexian Dreadnought, Psychatog, or a large Terravore. The extra copies come from the sideboard into any matchup with dangerous creatures.
 
-{{< matchup "vs Goblins" "even" >}}
-In: Elephant Grass x2, Swords to Plowshares x1, Worship x1. Out: Exploration x2, Mirri's Guile x2.
+**Worship** — as long as you control a creature, you can't lose the game. Keeps you alive against direct damage decks that can ping through your life total, like Goblins with Mogg Fanatic and Siege-Gang Commander. Your enchantress creatures make sure Worship's condition is almost always met.
 
-Same plan as Elves. Elephant Grass is even more punishing against Goblins since they need to attack with many creatures to deal meaningful damage. Worship keeps you alive when Mogg Fanatic and Siege-Gang Commander can ping your life total directly. Race to get Solitary Confinement online — once it's up and Sterling Grove makes it indestructible, Goblins can no longer reach you.
-{{< /matchup >}}
+**Defense Grid** — makes every spell cost 3 more mana if cast on any turn other than the caster's own. Brings in against counter-heavy decks like Stiflenought and Psychatog: Counterspell becomes 5 mana and Annul becomes 4, making it very hard for them to hold up interaction during your turn.
 
-{{< matchup "vs Psychatog" "even" >}}
-In: Defense Grid x2. Out: Mirri's Guile x1, Sylvan Library x1.
+**Sacred Ground** — whenever an opponent's spell or ability destroys one of your lands, Sacred Ground returns it to play immediately. Completely blanks land destruction plans like OathPonza's Thermokarst and Winter's Grasp — every destroyed land comes right back.
 
-Defense Grid makes every spell cost 3 more to cast if it's not the caster's turn. Counterspell becomes 5 mana. Foil becomes 7 mana plus two islands. With Grid in play, Enchantress can develop its enchantments without worrying about counterspells on the opponent's response window. Mirri's Guile and Sylvan Library provide overlapping filtering effects, and one can be trimmed.
-{{< /matchup >}}
+**Tormod's Crypt** — exiles an opponent's entire graveyard for free at instant speed. Brings in against any deck using the graveyard: prevents Replenish from recovering your destroyed enchantments, or disrupts Psychatog and Accumulated Knowledge chains.
 
-{{< matchup "vs OathPonza" "even" >}}
-In: Sacred Ground x1, Tormod's Crypt x2, Aura of Silence x2. Out: Opalescence x1, Parallax Wave x1, Mirri's Guile x1, Sylvan Library x1, Exploration x1.
+**Aura of Silence** — a two-mana enchantment that makes your opponents' artifact and enchantment spells cost 2 more, and you can sacrifice it to destroy any artifact or enchantment. Taxes key permanents like Sphere of Resistance, Mox Diamond, and Oath of Druids, and doubles as removal if needed.
 
-Sacred Ground is the key card: whenever OathPonza destroys your lands with Thermokarst or Winter's Grasp, Sacred Ground puts them right back on the battlefield. Their land destruction plan is completely nullified. Tormod's Crypt exiles OathPonza's graveyard, shrinking Terravore. Aura of Silence makes Sphere of Resistance cost 2 more, Mox Diamond cost 2 more, and Oath of Druids cost 2 more — taxing all their key plays. Opalescence and Parallax Wave are your win conditions but you don't need to rush them when you've neutralized their disruption.
-{{< /matchup >}}
+**Replenish** — an extra copy of the deck's reset button for matchups where you expect your enchantments to get destroyed and need multiple ways to recover.
 
-{{< matchup "vs Stiflenought" "even" >}}
-In: Defense Grid x2, Tormod's Crypt x2. Out: Seal of Cleansing x2, Mirri's Guile x2.
-
-Defense Grid protects your enchantments from being countered — with Grid, Annul costs their player 4 mana during your turn, making it very hard to hold up. Tormod's Crypt resets their Accumulated Knowledge stack, making each copy draw fewer cards. Seal of Cleansing has limited targets in a deck with only Powder Keg and Tsabo's Web as artifacts. Swords to Plowshares main is excellent here — exile Phyrexian Dreadnought before it gets to attack.
-{{< /matchup >}}
+**Gaea's Blessing** — shuffles up to three target cards from a graveyard into their owner's library. Keeps you from decking when both players are grinding through their libraries, and protects your own key enchantments from being exiled permanently.
 
 ---
 

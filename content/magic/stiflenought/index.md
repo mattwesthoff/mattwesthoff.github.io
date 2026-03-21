@@ -85,35 +85,19 @@ The cantrip package keeps the deck finding both pieces of the combo and the prot
 
 ### Sideboarding
 
-{{< matchup "vs Elves" "even" >}}
-In: Annul x3, Dominate x2. Out: Thwart x1, Daze x1, Flash of Insight x1, Peek x2.
+**Blue Elemental Blast** — destroys any red permanent or counters any red spell for one mana. Every goblin in a Goblins deck is red, every burn spell is red, every threat from a red aggro deck is vulnerable to it. Keep mana open to destroy attackers at instant speed or protect Phyrexian Dreadnought from red removal.
 
-Annul counters Survival of the Fittest (the engine that makes Elves go) and Tangle Wire (which slows your mana development considerably when you need to hold up countermagic). Dominate steals Priest of Titania, Wirewood Symbiote, or Quirion Ranger — stealing a Priest when they have six elves means you now have a massive mana source working for you. Thwart and Daze require bouncing islands, which gets awkward when you also need mana for Stifle and your combo pieces.
-{{< /matchup >}}
+**Chill** — a two-mana enchantment that makes all red spells cost two more mana. Against Goblins, one-mana creatures become three-mana creatures and the whole deck grinds to a halt. Hard to answer for a deck that plays nothing but basic Islands, and it stacks with counterspells to make every red threat manageable.
 
-{{< matchup "vs Goblins" "even" >}}
-In: Blue Elemental Blast x3, Essence Flare x2. Out: Peek x2, Thwart x1, Daze x1, Flash of Insight x1.
+**Annul** — counters any artifact or enchantment spell for one blue mana. Brings in against any deck where the dangerous cards are artifacts or enchantments — Sphere of Resistance, Oath of Druids, Mox Diamond, Sterling Grove. Counter the tutor before it resolves if at all possible.
 
-Blue Elemental Blast destroys any red permanent — every goblin in their deck is red — and counters red spells. It's a blue Terror that also handles burn. Essence Flare enchants a creature with cumulative upkeep 1: put it on Goblin Warchief or Siege-Gang Commander and they decay in a few turns. Peek, Thwart, and Daze are weaker when you need to interact repeatedly with a fast creature deck.
-{{< /matchup >}}
+**Dominate** — steal any creature for X mana where X is its converted mana cost plus one. Bring in against creature-based mana engines: stealing Priest of Titania when your opponent has six elves means you now have a massive mana source working for you instead of against you.
 
-{{< matchup "vs Psychatog" "even" >}}
-In: Tsabo's Web x2, Brain Freeze x2. Out: Daze x1, Thwart x1, Flash of Insight x1, Powder Keg x1.
+**Tsabo's Web** — a two-mana artifact that shuts off all nonbasic lands with a special ability. With Web in play, Polluted Delta can't fetch, Rishadan Port can't tap lands, Wasteland can't destroy, and Mishra's Factory and Treetop Village can't become creatures. Against any deck relying heavily on nonbasic utility lands, Web cripples their ability to execute their plan.
 
-Tsabo's Web shuts off Polluted Delta, which Psychatog needs to fix their mana — with Delta offline, their blue-black mana becomes unreliable. Brain Freeze is an alternate win condition: after both players cantrip through their decks, one Brain Freeze with enough storm count can mill 20+ cards. Both decks grind through cantrips, so whoever runs out of library first loses — Brain Freeze flips that threat onto them. Powder Keg has limited targets in a mostly-instant-and-sorcery deck.
-{{< /matchup >}}
+**Brain Freeze** — mills X cards from the top of target player's library, where X is three times the storm count. In cantrip-heavy mirrors where both players are churning through their decks, a Brain Freeze with enough storm count can mill 20 or more cards at once, threatening to deck the opponent before they can win.
 
-{{< matchup "vs OathPonza" "even" >}}
-In: Annul x3, Tsabo's Web x2. Out: Daze x1, Thwart x1, Flash of Insight x1, Peek x2.
-
-Annul counters Oath of Druids, Sphere of Resistance, and Mox Diamond — three of OathPonza's most impactful cards against you. Tsabo's Web shuts off Mishra's Factory, Treetop Village, Rishadan Port, and Wasteland simultaneously; with Web in play, OathPonza loses all their nonbasic land utility. Without Sphere making your spells cost more and without land destruction backed by Rishadan Port disruption, you can develop freely. Daze requires bouncing an island which gets worse when your mana is under pressure from their disruption.
-{{< /matchup >}}
-
-{{< matchup "vs Enchantress" "even" >}}
-In: Annul x3, Tormod's Crypt x1, Brain Freeze x1. Out: Daze x1, Thwart x1, Flash of Insight x1, Peek x2.
-
-Annul is the key card: it counters Sterling Grove, Opalescence, and Solitary Confinement on the stack before they can establish their protection. Counter Sterling Grove first — once it resolves, every other enchantment has shroud and you can no longer target them. Tormod's Crypt stops Replenish from undoing your work. Brain Freeze is an alternate win if Phyrexian Dreadnought keeps getting managed by Parallax Wave. Enchantress sets up slowly enough that countering key pieces can prevent the lock from ever assembling.
-{{< /matchup >}}
+**Tormod's Crypt** — exiles an opponent's entire graveyard for free at instant speed. Brings in against any deck using the graveyard: Replenish recurs an entire board of enchantments, and Accumulated Knowledge gets stronger with copies already in the bin.
 
 ---
 

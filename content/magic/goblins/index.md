@@ -11,9 +11,9 @@ So much synergy! So many Goblins!
 Goblin Lackey puts goblins directly into play! Turn two Siege-Gang Commander for free? That's a lot of Goblins, and Goblin Piledriver loves a lot of Goblins!
 
 Just goldfishing...
-- Turn 1: Lackey
-- Turn 2: Attack, they're at 19, put Siege-Gang into play, it makes three goblins. Play land, play Piledriver.
-- Turn 3: Attack with everything, Piledriver is a pro-blue 11/2, six more damage from the other goblins, that's 17 damage this turn, they're at two.  Siege-gang them saccing a goblin, you win. Oh you also even got a Piledriver trigger there you didn't need.
+- Turn 1: Play Goblin Lackey
+- Turn 2: Attack, they're at 19, put Siege-Gang Commander into play, it makes three goblins. Play land, play Goblin Piledriver.
+- Turn 3: Attack with everything, Piledriver is a pro-blue 11/2, six more damage from the other goblins, that's 17 damage this turn, they're at two.  Siege-gang them saccing a goblin, you win. Oh you also even got a Lackey trigger there you didn't need.
 
 Goblin Matron for tutoring, Ringleader for refilling your hand.  Incinerator as a Goblin or just to remove pesky blockers by cycling.  
 
@@ -92,35 +92,17 @@ Wasteland and Rishadan Port are disruption. Port taps at the beginning of your o
 
 ### Sideboarding
 
-{{< matchup "vs Elves" "even" >}}
-In: Pyrokinesis x3, Overload x2. Out: Wasteland x2, Rishadan Port x2, Goblin Tinkerer x1.
+**Red Elemental Blast** — counters any blue spell or destroys any blue permanent for one red mana. Every piece of countermagic in Stiflenought and every goblin-killing card in Psychatog is blue. Keep mana open to protect your key threats from being countered or answered.
 
-Pyrokinesis is the blowout card here: pitch any red card, deal 4 damage divided among any number of creatures — a board of Llanowar Elves, Fyndhorn Elves, and Wirewood Symbiote all die at no card cost. Overload exiles Tangle Wire, which is otherwise brutal since you have to tap all your creatures. Wasteland and Port have fewer targets since Elves runs mostly Forests.
-{{< /matchup >}}
+**Pyrokinesis** — pitch any red card from your hand to deal 4 damage divided among any number of creatures for free. A board of Llanowar Elves, Wirewood Symbiote, and Quirion Ranger all die at no card cost. Pitch a surplus Mountain if you're mana-flooded.
 
-{{< matchup "vs Psychatog" "even" >}}
-In: Red Elemental Blast x4. Out: Goblin King x1, Skirk Prospector x1, Goblin Tinkerer x1, Goblin Sharpshooter x1.
+**Tormod's Crypt** — exiles an opponent's entire graveyard for free at instant speed. Bring in against any deck that uses the graveyard as a resource — Replenish recurs an entire board of enchantments, and Accumulated Knowledge gets stronger with copies already in the bin.
 
-Red Elemental Blast counters Counterspell, Foil, and Daze, and also destroys Psychatog as a blue permanent. Psychatog's answers to you are Smother (misses Siege-Gang Commander and Goblin Ringleader), Vendetta (costs life), and Powder Keg (slow). Apply fast pressure and use REB to protect your threats. The one-of flex goblins don't contribute enough in a matchup where speed and protection matter most.
-{{< /matchup >}}
+**Overload** — exiles any artifact or enchantment for two mana. The main target is Sphere of Resistance, which makes every goblin cost one more mana. Also answers Tangle Wire, Mox Diamond, and other problem permanents.
 
-{{< matchup "vs OathPonza" "even" >}}
-In: Overload x2. Out: Goblin King x1, Skirk Prospector x1.
+**Anarchy** — destroys all white permanents simultaneously. Bring in against Enchantress: Sterling Grove, Opalescence, Solitary Confinement, and Elephant Grass all die in one shot. Time it before Solitary Confinement locks you out of attacking entirely.
 
-Overload exiles Sphere of Resistance, which otherwise makes every goblin cost one more mana. It also hits Mox Diamond. OathPonza has Pyroclasm main which kills everything with power 2 or less — most of your goblins die to it. Try to get Goblin Warchief down before committing your hand so they can't Pyroclasm you after tapping out for a land destruction spell. Wasteland is less useful here since OathPonza runs basics.
-{{< /matchup >}}
-
-{{< matchup "vs Enchantress" "even" >}}
-In: Tormod's Crypt x3. Out: Goblin King x1, Skirk Prospector x1, Goblin Goon x1.
-
-Tormod's Crypt prevents Replenish from being a full board reset. Enchantress has no creatures until Opalescence lands, so Pyrokinesis and Gempalm Incinerator have no early targets — but Mogg Fanatic and Siege-Gang Commander deal direct damage, which matters when you need to race under Solitary Confinement. Elephant Grass comes in from their sideboard and makes attacking expensive — the cumulative upkeep adds up fast with a wide board.
-{{< /matchup >}}
-
-{{< matchup "vs Stiflenought" "even" >}}
-In: Red Elemental Blast x4. Out: Wasteland x4.
-
-Stiflenought runs nothing but basic Islands, so Wasteland is useless. Red Elemental Blast counters every piece of countermagic in their deck — Counterspell, Foil, Daze, Thwart — and lets you force through your threats. Deploy fast and use REB to punch through their protection. They can't protect the Dreadnought and interact with your attack at the same time.
-{{< /matchup >}}
+**Goblin Goon** — a 6/6 for four mana that requires you to have more attacking creatures than your opponent. An extra finisher for games that go longer than expected.
 
 ---
 

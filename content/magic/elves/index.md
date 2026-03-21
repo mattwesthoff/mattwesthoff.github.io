@@ -85,35 +85,17 @@ The typical kill is making a pile of mana off Cradle, casting Deranged Hermit to
 
 ### Sideboarding
 
-{{< matchup "vs Goblins" "even" >}}
-In: Wall of Blossoms x4, Caller of the Claw x1. Out: Tangle Wire x2, Nantuko Vigilante x2, Yavimaya Granger x1.
+**Wall of Blossoms** — a 0/4 that draws a card when it enters. Bring in against aggressive creature decks where you need to stop early attackers. It shuts down Goblin Lackey cold and denies the "attack, put a big goblin into play for free" plan while replacing itself in hand.
 
-Wall of Blossoms stops Goblin Lackey cold — a 0/4 that draws a card is not getting past. Caller of the Claw is insurance if Pyrokinesis wipes your board. Tangle Wire is slow and Goblins can tap their creatures to pay for it. The 1-of utility elves don't do enough here.
-{{< /matchup >}}
+**Caller of the Claw** — insurance against mass removal. If your board of mana elves gets wiped by something like Pyrokinesis, Caller immediately makes 2/2 bears for every non-token that just died, turning a board sweep into a recovery.
 
-{{< matchup "vs Psychatog" "even" >}}
-In: Naturalize x2. Out: Yavimaya Granger x1, Anger x1.
+**Naturalize** — destroys any enchantment or artifact at instant speed for 1G. Essential against problem permanents like Sphere of Resistance (taxes every spell), Oath of Druids (triggers off your creatures), or any enchantment lock. Against Enchantress specifically, target Sterling Grove first while it's still on the stack — once it resolves every other enchantment gains shroud.
 
-Naturalize destroys Powder Keg before it sweeps your mana elves. The matchup is mostly a race: assemble the Survival engine before Psychatog stabilizes behind Counterspell. Anger is irrelevant since Psychatog has no blockers to punch through.
-{{< /matchup >}}
+**Uktabi Orangutan** — a creature that destroys an artifact when it enters the battlefield, so Survival of the Fittest can find it on demand. Better than Naturalize against artifacts because you can tutor for it mid-combo and it answers Powder Keg before it fires.
 
-{{< matchup "vs OathPonza" "even" >}}
-In: Naturalize x4. Out: Tangle Wire x4.
+**Xantid Swarm** — great against counter-heavy decks like Stiflenought and Psychatog: while it's attacking your opponent can't cast spells during your turn. Swing it in, then resolve Survival, deploy elves, and cast Tangle Wire with no countermagic possible. Play your spells in second main after the attack step.
 
-Naturalize hits the two cards that beat you: Oath of Druids (which triggers off your own creatures and gives them a free Terravore) and Sphere of Resistance (which makes every spell cost one more). Tangle Wire is weaker here since OathPonza is actively destroying their own lands anyway. Watch out for Cursed Totem post-board — it shuts off Wirewood Symbiote, Quirion Ranger, and Priest of Titania simultaneously.
-{{< /matchup >}}
-
-{{< matchup "vs Enchantress" "even" >}}
-In: Naturalize x4, Caller of the Claw x1. Out: Masticore x2, Anger x1, Yavimaya Granger x1, Nantuko Vigilante x1.
-
-Naturalize hits Opalescence (their win condition), Solitary Confinement (their lock piece), and Sterling Grove (their tutor and protection enabler). Masticore needs creatures to kill and Enchantress has none until Opalescence comes down. Anger does nothing without blockers. The race is assembling your combo before Solitary Confinement plus Sterling Grove locks the game out.
-{{< /matchup >}}
-
-{{< matchup "vs Stiflenought" "even" >}}
-In: Naturalize x4. Out: Anger x1, Yavimaya Granger x1, Nantuko Vigilante x2.
-
-Naturalize destroys Powder Keg before it sweeps your small elves. Stifle can counter Gaea's Cradle activations and Wooded Foothills fetch triggers, so plan around having key mana sources denied. Deploy multiple threats per turn so they can't counter everything — the combo is fast enough that they can't protect the Dreadnought and interact with you at the same time.
-{{< /matchup >}}
+**Masticore** — an extra copy of the main deck Masticore for matchups where you need sustained repeatable damage or a resilient threat that's hard to answer.
 
 ---
 
