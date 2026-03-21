@@ -132,8 +132,8 @@ Annul is the key card: it counters Sterling Grove, Opalescence, and Solitary Con
 {{< card "Tsabo's Web" "0dee69f8-cceb-41b9-a0ee-6b2ac9f4bad9" >}}
 {{< card "Brain Freeze" "59a43ef5-08f0-44fc-802d-b6cfd56b7d1f" >}}
 {{< card "Brain Freeze" "59a43ef5-08f0-44fc-802d-b6cfd56b7d1f" "full" >}}
-{{< card "Essence Flare" "13ebb5dd-d7f1-4b06-8585-7004045be542" >}}
-{{< card "Essence Flare" "13ebb5dd-d7f1-4b06-8585-7004045be542" >}}
+{{< card "Chill" "5a7bd777-6f11-441e-887f-9cee1ef96035" >}}
+{{< card "Chill" "5a7bd777-6f11-441e-887f-9cee1ef96035" >}}
 {{< card "Tormod's Crypt" "0f9668ba-d26d-4484-b4b8-6fb91fbfb617" "full" >}}
 {{< /cards >}}
 

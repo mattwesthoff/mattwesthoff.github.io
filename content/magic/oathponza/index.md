@@ -130,8 +130,8 @@ Red Elemental Blast and Pyroblast counter every piece of countermagic Stiflenoug
 {{< card "Pyroblast" "c342cac5-08ae-4428-9c2c-f6c5904e54d2" >}}
 {{< card "Tormod's Crypt" "0f9668ba-d26d-4484-b4b8-6fb91fbfb617" "full" >}}
 {{< card "Tormod's Crypt" "0f9668ba-d26d-4484-b4b8-6fb91fbfb617" >}}
-{{< card "Zuran Orb" "3a9d1082-a862-45d4-9e5e-392e879fead6" >}}
-{{< card "Zuran Orb" "3a9d1082-a862-45d4-9e5e-392e879fead6" >}}
+{{< card "Phyrexian Furnace" "e98bca31-8c05-430b-b5d7-331bdc55710a" >}}
+{{< card "Phyrexian Furnace" "e98bca31-8c05-430b-b5d7-331bdc55710a" >}}
 {{< card "Cursed Totem" "cc99ee76-45b6-4f1d-b0b0-7da8775ca90c" "full" >}}
 {{< card "Cursed Totem" "cc99ee76-45b6-4f1d-b0b0-7da8775ca90c" >}}
 {{< card "Naturalize" "c0acc41f-b55b-47cb-8803-d39d72788799" >}}

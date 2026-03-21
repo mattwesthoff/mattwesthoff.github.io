@@ -152,10 +152,10 @@ Defense Grid protects your enchantments from being countered — with Grid, Annu
 {{< card "Tormod's Crypt" "0f9668ba-d26d-4484-b4b8-6fb91fbfb617" "full" >}}
 {{< card "Replenish" "7fd2fe13-bbc0-42b7-bc42-3b51910ce118" >}}
 {{< card "Swords to Plowshares" "375fd2cb-443b-4be4-ad60-6d1a8e74f510" >}}
-{{< card "Tsabo's Web" "0dee69f8-cceb-41b9-a0ee-6b2ac9f4bad9" >}}
-{{< card "Krosan Reclamation" "5b3c5144-7e15-46c6-b819-d729ecb30bb1" "full" >}}
 {{< card "Sacred Ground" "37ae4b01-a9c1-4eec-9204-78cb2508e0df" >}}
+{{< card "Sacred Ground" "37ae4b01-a9c1-4eec-9204-78cb2508e0df" "full" >}}
 {{< card "Gaea's Blessing" "ee83d511-57e0-40fb-a4db-62f6c2c39888" >}}
+{{< card "Worship" "908781a0-1ba4-4027-bd9d-13f9faf08686" >}}
 {{< card "Worship" "908781a0-1ba4-4027-bd9d-13f9faf08686" "full" >}}
 {{< /cards >}}
 
