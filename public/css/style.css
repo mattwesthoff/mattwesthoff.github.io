@@ -78,14 +78,13 @@ a:hover {
 
 .tiles-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  grid-template-columns: repeat(3, 1fr);
   gap: 1.5rem;
 }
 
 .tile {
   display: flex;
   flex-direction: column;
-  aspect-ratio: 16 / 9;
   background-color: var(--surface);
   border-radius: 10px;
   border-top: 3px solid var(--tile-accent, var(--iris));
@@ -101,7 +100,9 @@ a:hover {
 }
 
 .tile-image {
-  flex: 1;
+  flex: none;
+  width: 100%;
+  aspect-ratio: 16 / 9;
   background-color: var(--overlay);
   background-size: cover;
   background-position: center;
