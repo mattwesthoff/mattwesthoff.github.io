@@ -83,24 +83,6 @@ The cantrip package keeps the deck finding both pieces of the combo and the prot
 
 ---
 
-### Sideboarding
-
-**Blue Elemental Blast** — destroys any red permanent or counters any red spell for one mana. Every goblin in a Goblins deck is red, every burn spell is red, every threat from a red aggro deck is vulnerable to it. Keep mana open to destroy attackers at instant speed or protect Phyrexian Dreadnought from red removal.
-
-**Chill** — a two-mana enchantment that makes all red spells cost two more mana. Against Goblins, one-mana creatures become three-mana creatures and the whole deck grinds to a halt. Hard to answer for a deck that plays nothing but basic Islands, and it stacks with counterspells to make every red threat manageable.
-
-**Annul** — counters any artifact or enchantment spell for one blue mana. Brings in against any deck where the dangerous cards are artifacts or enchantments — Sphere of Resistance, Oath of Druids, Mox Diamond, Sterling Grove. Counter the tutor before it resolves if at all possible.
-
-**Dominate** — steal any creature for X mana where X is its converted mana cost plus one. Bring in against creature-based mana engines: stealing Priest of Titania when your opponent has six elves means you now have a massive mana source working for you instead of against you.
-
-**Tsabo's Web** — a two-mana artifact that shuts off all nonbasic lands with a special ability. With Web in play, Polluted Delta can't fetch, Rishadan Port can't tap lands, Wasteland can't destroy, and Mishra's Factory and Treetop Village can't become creatures. Against any deck relying heavily on nonbasic utility lands, Web cripples their ability to execute their plan.
-
-**Brain Freeze** — mills X cards from the top of target player's library, where X is three times the storm count. In cantrip-heavy mirrors where both players are churning through their decks, a Brain Freeze with enough storm count can mill 20 or more cards at once, threatening to deck the opponent before they can win.
-
-**Tormod's Crypt** — exiles an opponent's entire graveyard for free at instant speed. Brings in against any deck using the graveyard: Replenish recurs an entire board of enchantments, and Accumulated Knowledge gets stronger with copies already in the bin.
-
----
-
 ### Sideboard
 
 {{< cards >}}
@@ -120,5 +102,21 @@ The cantrip package keeps the deck finding both pieces of the combo and the prot
 {{< card "Chill" "5a7bd777-6f11-441e-887f-9cee1ef96035" >}}
 {{< card "Tormod's Crypt" "0f9668ba-d26d-4484-b4b8-6fb91fbfb617" "full" >}}
 {{< /cards >}}
+
+#### Sideboarding Thoughts
+
+Blue Elemental Blast: Every goblin in a Goblins deck is red, every burn spell is red, every threat from a red aggro deck is vulnerable to it. Keep mana open to destroy attackers at instant speed or protect Phyrexian Dreadnought from red removal.
+
+Chill: Against Goblins, one-mana creatures become three-mana creatures and the whole deck grinds to a halt.
+
+Annul: Brings in against any deck where the dangerous cards are artifacts or enchantments, for example Sphere of Resistance, Oath of Druids, Mox Diamond, Sterling Grove.
+
+Dominate: Steal key utility creatures, or steal a scary creature from a deck that doesn't have many and managed to land one past your counters.
+
+Tsabo's Web: With Web in play, Polluted Delta can't fetch, Rishadan Port can't tap lands, Wasteland can't destroy, and Mishra's Factory and Treetop Village can't become creatures. Against any deck relying heavily on nonbasic utility lands, Web cripples their ability to execute their plan. Plus it replaces itself!
+
+Brain Freeze: In cantrip-heavy mirrors where both players are churning through their decks, a Brain Freeze with enough storm count can mill 20 or more cards at once, threatening to deck the opponent before they can win.
+
+Tormod's Crypt: Graveyard hate.
 
 [View on Archidekt](https://archidekt.com/decks/20963984/stiflenought)

@@ -84,22 +84,6 @@ Mishra's Factory and Treetop Village are the deck's creature-lands, giving you i
 
 ---
 
-### Sideboarding
-
-**Call of the Herd** — a 3/3 elephant token for three mana, with flashback to make a second one later. Comes in when Oath of Druids isn't a reliable threat and you need an alternate creature plan — a token that survives Pyroclasm and generates two bodies across two turns is hard to deal with efficiently.
-
-**Red Elemental Blast / Pyroblast** — counters any blue spell or destroys any blue permanent for one mana. Brings in against decks where you need to force through key spells against counterspells, or answer blue creatures like Psychatog. Having access to four of each post-board makes it very hard for any blue deck to reliably stop your most important plays.
-
-**Tormod's Crypt** — exiles an opponent's entire graveyard for free at instant speed. Brings in against any graveyard-reliant deck: Psychatog pumps off its graveyard and Accumulated Knowledge gets stronger with copies already in the bin, while Replenish recurs a whole board of enchantments.
-
-**Phyrexian Furnace** — an artifact that lets you pay one mana to exile a single card from any graveyard. Slower than Tormod's Crypt but can selectively remove specific cards — chip away at enchantments in the bin to prevent Replenish from finding them, or exile lands from opposing decks that care about graveyard size.
-
-**Cursed Totem** — shuts off all activated abilities of creatures. Most impactful against creature-based combo and mana decks: against Elves it turns off Wirewood Symbiote, Quirion Ranger, and Priest of Titania simultaneously, collapsing the entire mana engine in a single card.
-
-**Naturalize** — extra copies of the main deck card for matchups where you need more answers to enchantments and artifacts. Against decks with enchantment tutors or shroud effects, destroy the tutor first while it's still on the stack.
-
----
-
 ### Sideboard
 
 {{< cards >}}
@@ -119,5 +103,21 @@ Mishra's Factory and Treetop Village are the deck's creature-lands, giving you i
 {{< card "Naturalize" "c0acc41f-b55b-47cb-8803-d39d72788799" >}}
 {{< card "Naturalize" "c0acc41f-b55b-47cb-8803-d39d72788799" "full" >}}
 {{< /cards >}}
+
+
+#### Sideboarding Thoughts
+
+Call of the Herd: A token that survives Pyroclasm and generates two bodies across two turns is hard to deal with efficiently. Or if it gets binned by Oath of Druids you can flash it back if you need a wider board.
+
+Red Elemental Blast / Pyroblast: Brings in against decks where you need to force through key spells against counterspells, or answer blue creatures like Psychatog.
+
+Tormod's Crypt: Bring in against any graveyard-reliant deck.
+
+Phyrexian Furnace: Slower than Tormod's Crypt but can selectively remove specific cards and can stick around.  Chip away at enchantments in the bin to prevent Replenish from finding them, or exile lands from opposing decks that care about graveyard size. Can be basically cycled if you need something else.
+
+Cursed Totem: Shuts off all activated abilities of creatures. Most impactful against creature-based combo and mana decks: against Elves it turns off Wirewood Symbiote, Quirion Ranger, and Priest of Titania simultaneously, collapsing the entire mana engine in a single card.
+
+Naturalize: Extra copies of the main deck card for matchups where you need more answers to enchantments and artifacts.
+
 
 [View on Archidekt](https://archidekt.com/decks/20964023/oathponza)

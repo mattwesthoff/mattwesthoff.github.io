@@ -83,22 +83,6 @@ The typical kill is making a pile of mana off Cradle, casting Deranged Hermit to
 
 ---
 
-### Sideboarding
-
-**Wall of Blossoms** — a 0/4 that draws a card when it enters. Bring in against aggressive creature decks where you need to stop early attackers. It shuts down Goblin Lackey cold and denies the "attack, put a big goblin into play for free" plan while replacing itself in hand.
-
-**Caller of the Claw** — insurance against mass removal. If your board of mana elves gets wiped by something like Pyrokinesis, Caller immediately makes 2/2 bears for every non-token that just died, turning a board sweep into a recovery.
-
-**Naturalize** — destroys any enchantment or artifact at instant speed for 1G. Essential against problem permanents like Sphere of Resistance (taxes every spell), Oath of Druids (triggers off your creatures), or any enchantment lock. Against Enchantress specifically, target Sterling Grove first while it's still on the stack — once it resolves every other enchantment gains shroud.
-
-**Uktabi Orangutan** — a creature that destroys an artifact when it enters the battlefield, so Survival of the Fittest can find it on demand. Better than Naturalize against artifacts because you can tutor for it mid-combo and it answers Powder Keg before it fires.
-
-**Xantid Swarm** — great against counter-heavy decks like Stiflenought and Psychatog: while it's attacking your opponent can't cast spells during your turn. Swing it in, then resolve Survival, deploy elves, and cast Tangle Wire with no countermagic possible. Play your spells in second main after the attack step.
-
-**Masticore** — an extra copy of the main deck Masticore for matchups where you need sustained repeatable damage or a resilient threat that's hard to answer.
-
----
-
 ### Sideboard
 
 {{< cards >}}
@@ -119,4 +103,20 @@ The typical kill is making a pile of mana off Cradle, casting Deranged Hermit to
 {{< card "Caller of the Claw" "a073459e-1f00-47e0-a1b3-d30203aa35d1" "full" >}}
 {{< /cards >}}
 
+#### Sideboarding Thoughts
+
+Wall of Blossoms: A 0/4 that draws a card when it enters. Bring in against aggressive creature decks where you need to stop early attackers. It shuts down Goblin Lackey cold and denies the "attack, put a big goblin into play for free" plan while replacing itself in hand.
+
+Caller of the Claw: Insurance against mass removal. If your board of mana elves gets wiped by something like Pyrokinesis, Caller immediately makes 2/2 bears for every non-token that just died, turning a board sweep into a recovery.
+
+Naturalize: Essential against problem permanents like Sphere of Resistance (taxes every spell), Oath of Druids (triggers off your creatures), or any enchantment lock.
+
+Uktabi Orangutan: A creature that destroys an artifact when it enters the battlefield, so Survival of the Fittest can find it on demand.
+
+Xantid Swarm: Great against counter-heavy decks like Stiflenought and Psychatog: while it's attacking your opponent can't cast spells during your turn. Swing it in, then resolve Survival, deploy elves, and cast Tangle Wire with no countermagic possible. Play your spells in second main after the attack step.
+
+Masticore: An extra copy of the main deck Masticore for matchups where you need sustained repeatable damage or a resilient threat that's hard to answer.
+
+
 [View on Archidekt](https://archidekt.com/decks/20964013/elves)
+

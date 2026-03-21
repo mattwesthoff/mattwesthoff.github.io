@@ -87,26 +87,6 @@ Build up the graveyard through normal draw spells, keep the opponent from resolv
 
 ---
 
-### Sideboarding
-
-**Engineered Plague** — names a creature type, and all creatures of that type get -1/-1 for each copy in play. A single Plague naming Elf kills Llanowar Elves, Fyndhorn Elves, Quirion Ranger, Priest of Titania, and more simultaneously. Naming Goblin kills every creature in that entire deck. The most efficient sweeper available for tribal creature matchups.
-
-**Hydroblast / Blue Elemental Blast** — destroys any red permanent or counters any red spell for one mana. Brings in against red-heavy decks where most of the threats are red — Goblins is a good example where every creature in the deck is vulnerable to it.
-
-**Annul** — counters any artifact or enchantment spell for one blue mana. Brings in against decks where key setup pieces are enchantments, like Sterling Grove, Opalescence, and Solitary Confinement. Counter the tutor before it resolves — once Sterling Grove is in play, every other enchantment has shroud.
-
-**Zombie Infestation** — discard two cards to put a 2/2 Zombie token into play. Converts the excess cards from your cantrip engine into threats in matchups where your lands are under attack and you need a way to fight back while disrupted.
-
-**Phyrexian Furnace** — pay one mana to exile a single card from any graveyard. Chips away at graveyard-reliant strategies: exiles Accumulated Knowledge copies to reset the chain, or removes lands from an opposing deck that cares about graveyard size.
-
-**Infest** — gives all creatures -2/-2 until end of turn for three mana. Handles whatever survives Engineered Plague, plus tokens and utility creatures that were large enough to dodge a single Plague counter.
-
-**Deep Analysis** — an extra copy of the main deck draw spell for matchups where you need additional card advantage and can afford to flashback from the graveyard later.
-
-**Haunting Echoes** — exiles all cards in the opponent's graveyard, then exiles all cards in their library that share a name with any of those cards. Against any deck that runs four copies of key cards like Counterspell, Stifle, or Accumulated Knowledge, Haunting Echoes removes nearly all of them from the library at once.
-
----
-
 ### Sideboard
 
 {{< cards >}}
@@ -126,5 +106,23 @@ Build up the graveyard through normal draw spells, keep the opponent from resolv
 {{< card "Deep Analysis" "01e3c2e9-d8df-4a7a-be86-7be8c6254fa2" >}}
 {{< card "Haunting Echoes" "aca4c571-48b8-4150-93f8-4cb5c8e797c4" "full" >}}
 {{< /cards >}}
+
+#### Sideboarding Thoughts
+
+Engineered Plague: A single Plague naming Elf kills Llanowar Elves, Fyndhorn Elves, Quirion Ranger, Priest of Titania, and more simultaneously. Naming Goblin kills half the cards in their deck.
+
+Hydroblast / Blue Elemental Blast: Destroys any red permanent or counters any red spell for one mana. Brings in against red-heavy decks where most of the threats are red.
+
+Annul: Bring in against decks where key setup pieces are enchantments, like Sterling Grove, Opalescence, and Solitary Confinement, or that have annoying artifacts.
+
+Zombie Infestation: Converts the excess cards from your cantrip engine into threats in matchups where you need to go a little wider.
+
+Phyrexian Furnace: Chips away at graveyard-reliant strategies and can effectively cycle when you need it to.
+
+Infest: Another board wiping card that kills most Elves and Goblins.
+
+Deep Analysis: An extra copy of the main deck draw spell for matchups where you need additional card advantage and can afford to flashback from the graveyard later.
+
+Haunting Echoes: Remove key pieces of your opponent's strategy once one is in the bin.
 
 [View on Archidekt](https://archidekt.com/decks/20964038/psychatog)

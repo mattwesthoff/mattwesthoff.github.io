@@ -90,22 +90,6 @@ Wasteland and Rishadan Port are disruption. Port taps at the beginning of your o
 
 ---
 
-### Sideboarding
-
-**Red Elemental Blast** — counters any blue spell or destroys any blue permanent for one red mana. Every piece of countermagic in Stiflenought and every goblin-killing card in Psychatog is blue. Keep mana open to protect your key threats from being countered or answered.
-
-**Pyrokinesis** — pitch any red card from your hand to deal 4 damage divided among any number of creatures for free. A board of Llanowar Elves, Wirewood Symbiote, and Quirion Ranger all die at no card cost. Pitch a surplus Mountain if you're mana-flooded.
-
-**Tormod's Crypt** — exiles an opponent's entire graveyard for free at instant speed. Bring in against any deck that uses the graveyard as a resource — Replenish recurs an entire board of enchantments, and Accumulated Knowledge gets stronger with copies already in the bin.
-
-**Overload** — exiles any artifact or enchantment for two mana. The main target is Sphere of Resistance, which makes every goblin cost one more mana. Also answers Tangle Wire, Mox Diamond, and other problem permanents.
-
-**Anarchy** — destroys all white permanents simultaneously. Bring in against Enchantress: Sterling Grove, Opalescence, Solitary Confinement, and Elephant Grass all die in one shot. Time it before Solitary Confinement locks you out of attacking entirely.
-
-**Goblin Goon** — a 6/6 for four mana that requires you to have more attacking creatures than your opponent. An extra finisher for games that go longer than expected.
-
----
-
 ### Sideboard
 
 {{< cards >}}
@@ -125,5 +109,19 @@ Wasteland and Rishadan Port are disruption. Port taps at the beginning of your o
 {{< card "Anarchy" "28d941da-b5cb-4b7e-84f2-ece883f89af3" >}}
 {{< card "Goblin Goon" "6c77cac8-fe95-4925-a815-8c514cc41b22" "full" >}}
 {{< /cards >}}
+
+#### Sideboarding Thoughts
+
+Red Elemental Blast: Counters any blue spell or destroys any blue permanent for one red mana. Every piece of countermagic in Stiflenought and every goblin-killing card in Psychatog is blue. Keep mana open to protect your key threats from being countered or answered.
+
+Pyrokinesis: Pitch any red card from your hand to deal 4 damage divided among any number of creatures for free. A board of Llanowar Elves, Wirewood Symbiote, and Quirion Ranger all die at no card cost.
+
+Tormod's Crypt: Graveyard hate.
+
+Overload: Pesky artifacts like Sphere of Resistance meet their end!
+
+Anarchy: Bring in against Enchantress: Sterling Grove, Opalescence, Solitary Confinement, and Elephant Grass all die in one shot.
+
+Goblin Goon: An extra finisher for games that go longer than expected.
 
 [View on Archidekt](https://archidekt.com/decks/20963970/goblins)

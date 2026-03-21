@@ -105,28 +105,6 @@ Replenish is the reset button: if the board gets wiped, one Replenish puts every
 
 ---
 
-### Sideboarding
-
-**Elephant Grass** — requires your opponent to pay 2 mana for each nonblack creature they attack with. Against wide creature decks like Goblins or Elves, this quickly becomes impossible to pay — at eight attackers that's sixteen mana per attack, which shuts combat down entirely.
-
-**Swords to Plowshares** — exiles any creature at instant speed for one white mana. Bring in when you need to remove a specific threat before it becomes a problem — Phyrexian Dreadnought, Psychatog, or a large Terravore. The extra copies come from the sideboard into any matchup with dangerous creatures.
-
-**Worship** — as long as you control a creature, you can't lose the game. Keeps you alive against direct damage decks that can ping through your life total, like Goblins with Mogg Fanatic and Siege-Gang Commander. Your enchantress creatures make sure Worship's condition is almost always met.
-
-**Defense Grid** — makes every spell cost 3 more mana if cast on any turn other than the caster's own. Brings in against counter-heavy decks like Stiflenought and Psychatog: Counterspell becomes 5 mana and Annul becomes 4, making it very hard for them to hold up interaction during your turn.
-
-**Sacred Ground** — whenever an opponent's spell or ability destroys one of your lands, Sacred Ground returns it to play immediately. Completely blanks land destruction plans like OathPonza's Thermokarst and Winter's Grasp — every destroyed land comes right back.
-
-**Tormod's Crypt** — exiles an opponent's entire graveyard for free at instant speed. Brings in against any deck using the graveyard: prevents Replenish from recovering your destroyed enchantments, or disrupts Psychatog and Accumulated Knowledge chains.
-
-**Aura of Silence** — a two-mana enchantment that makes your opponents' artifact and enchantment spells cost 2 more, and you can sacrifice it to destroy any artifact or enchantment. Taxes key permanents like Sphere of Resistance, Mox Diamond, and Oath of Druids, and doubles as removal if needed.
-
-**Replenish** — an extra copy of the deck's reset button for matchups where you expect your enchantments to get destroyed and need multiple ways to recover.
-
-**Gaea's Blessing** — shuffles up to three target cards from a graveyard into their owner's library. Keeps you from decking when both players are grinding through their libraries, and protects your own key enchantments from being exiled permanently.
-
----
-
 ### Sideboard
 
 {{< cards >}}
@@ -146,5 +124,25 @@ Replenish is the reset button: if the board gets wiped, one Replenish puts every
 {{< card "Worship" "908781a0-1ba4-4027-bd9d-13f9faf08686" >}}
 {{< card "Worship" "908781a0-1ba4-4027-bd9d-13f9faf08686" "full" >}}
 {{< /cards >}}
+
+#### Sideboarding Thoughts
+
+Elephant Grass: Against wide creature decks like Goblins or Elves, this can prevent big attacks and slow their deck down dramatically.
+
+Swords to Plowshares: Bring in when you need to remove a specific threat before it becomes a problem (Phyrexian Dreadnought, Psychatog, or a large Terravore).
+
+Worship: Keeps you alive against direct damage decks that can ping through your life total, like Goblins with Mogg Fanatic and Siege-Gang Commander. An Enchantress or Opalescence fulfills the creature requirement.
+
+Defense Grid: Brings in against counter-heavy decks like Stiflenought and Psychatog: Counterspell becomes 5 mana and Annul becomes 4, making it very hard for them to hold up interaction during your turn.
+
+Sacred Ground: Completely blanks land destruction plans like OathPonza's Thermokarst and Winter's Grasp, every destroyed land comes right back.
+
+Tormod's Crypt: Brings in against any deck using the graveyard: prevents Replenish from recovering your destroyed enchantments, or disrupts Psychatog and Accumulated Knowledge chains.
+
+Aura of Silence: Taxes key permanents like Sphere of Resistance, Mox Diamond, and Oath of Druids, and doubles as removal if needed.
+
+Replenish: An extra copy of the deck's reset button for matchups where you expect your enchantments to get destroyed and need multiple ways to recover.
+
+Gaea's Blessing: Graveyard removal and could keep you from decking or having key enchantments be exiled before you can Replenish.
 
 [View on Archidekt](https://archidekt.com/decks/20963995/enchantress)
