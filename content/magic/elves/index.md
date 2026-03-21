@@ -128,12 +128,12 @@ Naturalize destroys Powder Keg before it sweeps your small elves. Stifle can cou
 {{< card "Wall of Blossoms" "7eb4a1a3-efcf-4c9a-ad1f-0a3f8f2b456f" >}}
 {{< card "Wall of Blossoms" "7eb4a1a3-efcf-4c9a-ad1f-0a3f8f2b456f" >}}
 {{< card "Wall of Blossoms" "7eb4a1a3-efcf-4c9a-ad1f-0a3f8f2b456f" "full" >}}
-{{< card "Call of the Herd" "429a88cc-53db-4c5e-a061-f0f49a38c675" >}}
-{{< card "Call of the Herd" "429a88cc-53db-4c5e-a061-f0f49a38c675" >}}
-{{< card "Call of the Herd" "429a88cc-53db-4c5e-a061-f0f49a38c675" >}}
-{{< card "Call of the Herd" "429a88cc-53db-4c5e-a061-f0f49a38c675" "full" >}}
+{{< card "Uktabi Orangutan" "101c7d58-43cc-4ebd-87f1-2016fbff56dd" >}}
+{{< card "Uktabi Orangutan" "101c7d58-43cc-4ebd-87f1-2016fbff56dd" >}}
+{{< card "Xantid Swarm" "6a87911a-3931-46aa-9348-2728c4b73b96" >}}
+{{< card "Xantid Swarm" "6a87911a-3931-46aa-9348-2728c4b73b96" "full" >}}
 {{< card "Masticore" "908a2215-7231-43a4-8fec-5d1e4233c028" >}}
-{{< card "Nantuko Vigilante" "e7474849-a6b4-4f3b-a836-37b88c26047b" >}}
+{{< card "Caller of the Claw" "a073459e-1f00-47e0-a1b3-d30203aa35d1" >}}
 {{< card "Caller of the Claw" "a073459e-1f00-47e0-a1b3-d30203aa35d1" "full" >}}
 {{< /cards >}}
 
