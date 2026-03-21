@@ -12,9 +12,7 @@ The deck spends the early game as a control deck, drawing cards and saying no, d
 
 Duress can disrupt decks on turn one, or be saved to check if the way is clear to play a 'tog. 
 
-Accumulated Knowledge is great in this deck, you want to draw cards and have cards in your graveyard. Intuition at instant speed can tutor three copies of Accumulated Knowledge, forcing the opponent to give you one — and then the other two are already in your graveyard, so the next copy draws three.  But worth thinking through exiling any AKs from your graveyard unless you're winning, since it just keeps getting better.
-
-Impulse finds what you're looking for and adds four cards to the graveyard, that's 2 damage (later w/ 'tog) in addition to the filtering.
+Intuition at instant speed can tutor three copies of Accumulated Knowledge, forcing the opponent to give you one — and then the other two are already in your graveyard, so the next copy draws three.  But worth thinking through exiling any AKs from your graveyard unless you're winning, since it just keeps getting better.
 
 Build up the graveyard through normal draw spells, keep the opponent from resolving anything meaningful, and find a window where Psychatog can swing lethal through their defenses. 
 
