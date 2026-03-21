@@ -19,10 +19,10 @@ The typical kill is making a pile of mana off Cradle, casting Deranged Hermit to
 ### Maindeck
 
 {{< cards >}}
-{{< card "Llanowar Elves" "75d972d7-5ed9-49c1-8d27-ec162771284d" >}}
-{{< card "Llanowar Elves" "75d972d7-5ed9-49c1-8d27-ec162771284d" >}}
-{{< card "Llanowar Elves" "75d972d7-5ed9-49c1-8d27-ec162771284d" >}}
-{{< card "Llanowar Elves" "75d972d7-5ed9-49c1-8d27-ec162771284d" >}}
+{{< card "Llanowar Elves" "abd80204-e9ba-483f-9b75-a69712545ba9" >}}
+{{< card "Llanowar Elves" "abd80204-e9ba-483f-9b75-a69712545ba9" >}}
+{{< card "Llanowar Elves" "abd80204-e9ba-483f-9b75-a69712545ba9" >}}
+{{< card "Llanowar Elves" "abd80204-e9ba-483f-9b75-a69712545ba9" >}}
 {{< card "Fyndhorn Elves" "3ba95ffa-990a-4013-98b7-5d8c0b34e9c4" >}}
 {{< card "Fyndhorn Elves" "3ba95ffa-990a-4013-98b7-5d8c0b34e9c4" >}}
 {{< card "Fyndhorn Elves" "3ba95ffa-990a-4013-98b7-5d8c0b34e9c4" >}}
