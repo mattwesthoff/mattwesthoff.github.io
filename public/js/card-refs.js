@@ -165,12 +165,21 @@ function annotateTextNode(node) {
   node.parentNode.replaceChild(frag, node);
 }
 
+function walkTextNodes(node) {
+  if (node.nodeType === Node.TEXT_NODE) {
+    annotateTextNode(node);
+    return;
+  }
+  if (node.nodeType !== Node.ELEMENT_NODE) return;
+  const tag = node.tagName.toLowerCase();
+  if (tag === 'script' || tag === 'style' || tag === 'pre' || tag === 'code') return;
+  if (node.classList && node.classList.contains('card-ref')) return;
+  Array.from(node.childNodes).forEach(walkTextNodes);
+}
+
 function annotateParagraphs() {
-  document.querySelectorAll('.post-content p').forEach(p => {
-    Array.from(p.childNodes).forEach(node => {
-      if (node.nodeType === Node.TEXT_NODE) annotateTextNode(node);
-    });
-  });
+  const content = document.querySelector('.post-content');
+  if (content) walkTextNodes(content);
 }
 
 // Tooltip
