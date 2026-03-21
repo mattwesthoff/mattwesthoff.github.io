@@ -84,6 +84,40 @@ Mishra's Factory and Treetop Village are the deck's creature-lands, giving you i
 
 ---
 
+### Sideboarding
+
+**vs Elves**
+
+In: Cursed Totem x2. Out: Winter's Grasp x2.
+
+Cursed Totem shuts off every activated ability in the Elves deck simultaneously: Wirewood Symbiote can't return elves to untap creatures, Quirion Ranger can't bounce forests, Priest of Titania can't tap for mana. Without those three, Elves can't generate its explosive mana. Pyroclasm main handles all elves with power 2 or less — sequence it after they dump their hand. Winter's Grasp is weaker here since Elves mostly plays basic Forests and can replace them quickly with Yavimaya Granger and fetches.
+
+**vs Goblins**
+
+In: Call of the Herd x3, Red Elemental Blast x2, Pyroblast x2. Out: Oath of Druids x4, Stone Rain x1, Winter's Grasp x2.
+
+Oath of Druids can trigger here (Goblins has creatures), but the deck is better as a pure disruption-and-beats plan. Call of the Herd provides a 3/3 that doesn't die to Pyroclasm and generates extra value with flashback. Pyroblast and Red Elemental Blast destroy any red permanent — every goblin in their deck is red — and counter red spells. Stone Rain and Winter's Grasp are weaker when Goblins runs mostly basic Mountains.
+
+**vs Psychatog**
+
+In: Red Elemental Blast x2, Pyroblast x2, Tormod's Crypt x2. Out: Oath of Druids x4, Pyroclasm x2.
+
+Oath of Druids does nothing against Psychatog since they play no creatures. Red Elemental Blast and Pyroblast counter every blue spell in their deck — Counterspell, Foil, Gush, Accumulated Knowledge, Impulse — and can destroy Psychatog as a blue permanent. Tormod's Crypt exiles their graveyard, which powers Psychatog's pump and makes Accumulated Knowledge weaker. Pyroclasm has no targets since Psychatog runs no creatures main.
+
+**vs Enchantress**
+
+In: Naturalize x2, Tormod's Crypt x2, Zuran Orb x2. Out: Oath of Druids x4, Stone Rain x1, Winter's Grasp x1.
+
+Oath of Druids does nothing since Enchantress plays no creatures. Extra Naturalize is critical: Sterling Grove gives all other enchantments shroud, so you must destroy Grove first, then you can hit Opalescence, Solitary Confinement, or whatever they've assembled. Tormod's Crypt makes Replenish fizzle. Zuran Orb lets you sacrifice lands for life if their enchantments start dealing combat damage.
+
+**vs Stiflenought**
+
+In: Red Elemental Blast x2, Pyroblast x2. Out: Pyroclasm x2, Earthquake x1, Stone Rain x1.
+
+Red Elemental Blast and Pyroblast counter every piece of countermagic Stiflenought runs — Counterspell, Foil, Daze, Thwart — letting you resolve Sphere of Resistance and your key disruption. Pyroclasm and Earthquake have no targets until Phyrexian Dreadnought lands, at which point they're useless against a 12/12. Note that Stifle can counter the Oath of Druids trigger at your upkeep, so don't rely on Terravore as your only threat — Mishra's Factory and Treetop Village can close games too.
+
+---
+
 ### Sideboard
 
 {{< cards >}}
