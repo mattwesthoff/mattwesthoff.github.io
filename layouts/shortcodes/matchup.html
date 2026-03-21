@@ -1,0 +1,13 @@
+{{ $name := .Get 0 }}
+{{ $rating := .Get 1 }}
+{{ $labels := dict "favored" "Favored" "slightly-favored" "Slightly Favored" "even" "Even" "slightly-unfavored" "Slightly Unfavored" "unfavored" "Unfavored" }}
+{{ $label := index $labels $rating | default $rating }}
+<details class="matchup">
+  <summary class="matchup-header">
+    <span class="matchup-name">{{ $name }}</span>
+    <span class="matchup-rating {{ $rating }}">{{ $label }}</span>
+  </summary>
+  <div class="matchup-body">
+    {{ .Inner | markdownify }}
+  </div>
+</details>

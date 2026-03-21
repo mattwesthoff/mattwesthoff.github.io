@@ -92,35 +92,35 @@ Wasteland and Rishadan Port are disruption. Port taps at the beginning of your o
 
 ### Sideboarding
 
-**vs Elves**
-
+{{< matchup "vs Elves" "even" >}}
 In: Pyrokinesis x3, Overload x2. Out: Wasteland x2, Rishadan Port x2, Goblin Tinkerer x1.
 
 Pyrokinesis is the blowout card here: pitch any red card, deal 4 damage divided among any number of creatures — a board of Llanowar Elves, Fyndhorn Elves, and Wirewood Symbiote all die at no card cost. Overload exiles Tangle Wire, which is otherwise brutal since you have to tap all your creatures. Wasteland and Port have fewer targets since Elves runs mostly Forests.
+{{< /matchup >}}
 
-**vs Psychatog**
-
+{{< matchup "vs Psychatog" "even" >}}
 In: Red Elemental Blast x4. Out: Goblin King x1, Skirk Prospector x1, Goblin Tinkerer x1, Goblin Sharpshooter x1.
 
 Red Elemental Blast counters Counterspell, Foil, and Daze, and also destroys Psychatog as a blue permanent. Psychatog's answers to you are Smother (misses Siege-Gang Commander and Goblin Ringleader), Vendetta (costs life), and Powder Keg (slow). Apply fast pressure and use REB to protect your threats. The one-of flex goblins don't contribute enough in a matchup where speed and protection matter most.
+{{< /matchup >}}
 
-**vs OathPonza**
-
+{{< matchup "vs OathPonza" "even" >}}
 In: Overload x2. Out: Goblin King x1, Skirk Prospector x1.
 
 Overload exiles Sphere of Resistance, which otherwise makes every goblin cost one more mana. It also hits Mox Diamond. OathPonza has Pyroclasm main which kills everything with power 2 or less — most of your goblins die to it. Try to get Goblin Warchief down before committing your hand so they can't Pyroclasm you after tapping out for a land destruction spell. Wasteland is less useful here since OathPonza runs basics.
+{{< /matchup >}}
 
-**vs Enchantress**
-
+{{< matchup "vs Enchantress" "even" >}}
 In: Tormod's Crypt x3. Out: Goblin King x1, Skirk Prospector x1, Goblin Goon x1.
 
 Tormod's Crypt prevents Replenish from being a full board reset. Enchantress has no creatures until Opalescence lands, so Pyrokinesis and Gempalm Incinerator have no early targets — but Mogg Fanatic and Siege-Gang Commander deal direct damage, which matters when you need to race under Solitary Confinement. Elephant Grass comes in from their sideboard and makes attacking expensive — the cumulative upkeep adds up fast with a wide board.
+{{< /matchup >}}
 
-**vs Stiflenought**
-
+{{< matchup "vs Stiflenought" "even" >}}
 In: Red Elemental Blast x4. Out: Wasteland x4.
 
 Stiflenought runs nothing but basic Islands, so Wasteland is useless. Red Elemental Blast counters every piece of countermagic in their deck — Counterspell, Foil, Daze, Thwart — and lets you force through your threats. Deploy fast and use REB to punch through their protection. They can't protect the Dreadnought and interact with your attack at the same time.
+{{< /matchup >}}
 
 ---
 

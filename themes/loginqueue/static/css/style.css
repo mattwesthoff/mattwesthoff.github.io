@@ -364,6 +364,55 @@ a:hover {
   width: auto;
 }
 
+/* ── Matchup collapsibles ────────────────────────────── */
+
+.matchup {
+  border: 1px solid var(--overlay);
+  border-radius: 6px;
+  margin-bottom: 0.5rem;
+  background-color: var(--surface);
+}
+
+.matchup-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.65rem 1rem;
+  cursor: pointer;
+  list-style: none;
+  user-select: none;
+}
+
+.matchup-header::-webkit-details-marker { display: none; }
+
+.matchup-name {
+  font-weight: 600;
+  color: var(--text);
+  font-size: 0.95rem;
+}
+
+.matchup-rating {
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.matchup-rating.favored           { color: var(--pine); }
+.matchup-rating.slightly-favored  { color: var(--foam); }
+.matchup-rating.even              { color: var(--gold); }
+.matchup-rating.slightly-unfavored { color: var(--rose); }
+.matchup-rating.unfavored         { color: var(--love); }
+
+.matchup-body {
+  padding: 0.75rem 1rem 1rem;
+  border-top: 1px solid var(--overlay);
+  font-size: 0.9rem;
+  color: var(--subtle);
+}
+
+.matchup-body p:last-child { margin-bottom: 0; }
+
 /* ── Deck cards ──────────────────────────────────────── */
 
 .deck-cards {
