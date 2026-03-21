@@ -187,8 +187,8 @@ function showTooltip(ref, e) {
 
 function moveTooltip(e) {
   const margin = 16;
-  const tw = 200;
-  const th = 279; // ~200 * 680/488
+  const tw = 215; // 300 * 488/680
+  const th = 300;
 
   let x = e.clientX + margin;
   let y = e.clientY + margin;
