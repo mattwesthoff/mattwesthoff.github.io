@@ -8,7 +8,7 @@ summary = 'Goblin tribal! Goblin Lackey and Goblin Warchief for fast starts. Gob
 
 So much synergy! So many Goblins! 
 
-Goblin Lackey puts goblins directly into play! Turn two Seige-Gang Commander for free? That's a lot of Goblins, and Piledriver loves a lot of Goblins!
+Goblin Lackey puts goblins directly into play! Turn two Siege-Gang Commander for free? That's a lot of Goblins, and Goblin Piledriver loves a lot of Goblins!
 
 Just goldfishing...
 - Turn 1: Lackey
@@ -17,7 +17,7 @@ Just goldfishing...
 
 Goblin Matron for tutoring, Ringleader for refilling your hand.  Incinerator as a Goblin or just to remove pesky blockers by cycling.  
 
-Goblin Piledriver is the closing threat. He's a 1/2 for two mana, but he gets +2/+0 for each other goblin attacking. With four or five goblins swinging, Piledriver is hitting for eight to twelve damage in one attack, and he has protection from blue so control decks can't easily answer him. Gempalm Incinerator clears the way without spending a card: cycling him deals damage equal to the number of goblins you control to any target, which is usually enough to kill whatever is blocking.
+Goblin Piledriver is a big threat. He's a 1/2 for two mana, but he gets +2/+0 for each other goblin attacking, which as seen above can really add up. Gempalm Incinerator clears the way without spending a card: cycling him deals damage equal to the number of goblins you control to any target, which is usually enough to kill whatever is blocking.
 
 Wasteland and Rishadan Port are disruption. Port taps at the beginning of your opponent's upkeep to keep a land tapped during their main phase. Wasteland destroys a nonbasic land outright. Against decks that need specific colors or nonbasic lands to function, this pressure often prevents them from executing their plan long enough for your goblins to close the game.
 

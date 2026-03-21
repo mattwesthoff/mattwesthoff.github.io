@@ -25,4 +25,7 @@ document.querySelectorAll('.deck-cards').forEach(function(container) {
   cols.forEach(function(col) { container.appendChild(col); });
 });
 </script>
+{{ if eq .Section "magic" }}
+<script src="{{ "js/card-refs.js" | relURL }}"></script>
+{{ end }}
 {{ end }}

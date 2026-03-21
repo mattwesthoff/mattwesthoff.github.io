@@ -339,6 +339,30 @@ a:hover {
   color: var(--subtle);
 }
 
+/* ── Card references ─────────────────────────────────── */
+
+.card-ref {
+  color: var(--foam);
+  border-bottom: 1px dotted var(--foam);
+  cursor: default;
+}
+
+#card-tooltip {
+  display: none;
+  position: fixed;
+  z-index: 999;
+  pointer-events: none;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.6);
+  width: 200px;
+}
+
+#card-tooltip img {
+  display: block;
+  width: 100%;
+}
+
 /* ── Deck cards ──────────────────────────────────────── */
 
 .deck-cards {
