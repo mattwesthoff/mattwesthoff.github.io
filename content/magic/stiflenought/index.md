@@ -10,6 +10,8 @@ Phyrexian Dreadnought is a 12/12 trampler that costs one mana. The catch is that
 
 Stifle is the namesake approach. It counters any activated or triggered ability, so you pay one blue, counter the Dreadnought trigger, and you have a 12/12 on turn two. Vision Charm also works, choosing to phase out the Dreadnought in response to the trigger. The Dreadnought phases out, the trigger is now targeting a permanent that doesn't exist, and it fizzles. The Dreadnought phases back in at your next untap step with no entering-the-battlefield trigger, because phasing in doesn't count as entering the battlefield.
 
+Stifle and Vision Charm aren't just useful in the combo, Stifle can counter things like a Wooded Foothills after they crack it an go to fetch. One blue mana for "Destroy a land and make an opponent lose 1 life" is pretty good! Vision Charm can slow opponents down, on their upkeep change the lands they need to something that doesn't help them for a turn.
+
 The countermagic suite exists to protect the Dreadnought once it's in play, and clear the way for you to play Dreadnought in the first place. Counterspell is the baseline. Daze, Foil and Thwart can catch out opponents who assumed it was safe to cast spell since your mana was tapped out.
 
 The cantrip package keeps the deck finding both pieces of the combo and the protection it needs. The correct line is often to cantrip through the deck, find both a Dreadnought and a Stifle or Vision Charm, make sure the opponent has no answer in hand, and then commit with countermagic held up.
