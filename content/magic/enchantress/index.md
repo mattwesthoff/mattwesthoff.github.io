@@ -129,11 +129,11 @@ Replenish is the reset button: if the board gets wiped, one Replenish puts every
 
 Elephant Grass: Against wide creature decks like Goblins or Elves, this can prevent big attacks and slow their deck down dramatically.
 
-Swords to Plowshares: Bring in when you need to remove a specific threat before it becomes a problem (Phyrexian Dreadnought, Psychatog, or a large Terravore).
+Swords to Plowshares: Bring in when you need to remove a specific threat before it becomes a problem (Phyrexian Dreadnought, Psychatog, or a large Terravore), or just slow down aggro until you can get to Waving.
 
 Worship: Keeps you alive against direct damage decks that can ping through your life total, like Goblins with Mogg Fanatic and Siege-Gang Commander. An Enchantress or Opalescence fulfills the creature requirement.
 
-Defense Grid: Brings in against counter-heavy decks like Stiflenought and Psychatog: Counterspell becomes 5 mana and Annul becomes 4, making it very hard for them to hold up interaction during your turn.
+Defense Grid: Brings in against counter-heavy decks like Stiflenought and Psychatog: Counterspell becomes 5 mana and Annul becomes 4, making it very hard for them to hold up interaction during your turn. Also slows down the go wide decks playing cheap threats.
 
 Sacred Ground: Completely blanks land destruction plans like OathPonza's Thermokarst and Winter's Grasp, every destroyed land comes right back.
 

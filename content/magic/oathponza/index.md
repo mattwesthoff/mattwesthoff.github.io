@@ -115,7 +115,7 @@ Tormod's Crypt: Bring in against any graveyard-reliant deck.
 
 Phyrexian Furnace: Slower than Tormod's Crypt but can selectively remove specific cards and can stick around.  Chip away at enchantments in the bin to prevent Replenish from finding them, or exile lands from opposing decks that care about graveyard size. Can be basically cycled if you need something else.
 
-Cursed Totem: Shuts off all activated abilities of creatures. Most impactful against creature-based combo and mana decks: against Elves it turns off Wirewood Symbiote, Quirion Ranger, and Priest of Titania simultaneously, collapsing the entire mana engine in a single card.
+Cursed Totem: Shuts off all activated abilities of creatures. Most impactful against creature-based combo and mana decks: against Elves it turns off Wirewood Symbiote, Quirion Ranger, and Priest of Titania simultaneously, collapsing the entire mana engine in a single card. Prevents Psychatog from doing it's thing as well.
 
 Naturalize: Extra copies of the main deck card for matchups where you need more answers to enchantments and artifacts.
 
